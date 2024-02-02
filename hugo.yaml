@@ -1,0 +1,64 @@
+baseURL: https://grainyphotos.com
+languageCode: en-gb
+title: Grainy Photos
+description: "A photo blog about photography (mostly B&W film) featuring photos of places in Spain."
+theme: PaperMod
+paginate: 5
+enableRobotsTXT: true
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: gear
+      name: Gear
+      url: /gear/
+      weight: 50
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 60
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  DateFormat: 2 January 2006
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  # hideSummary: false
+  description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.
+  author: Rom Gostomski
+
+  homeInfoParams:
+    Title: 
+    Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
+  socialIcons: 
+    - name: mastodon
+      url: https://photog.social/@tapasinthesun
+    - name: flickr
+      url: https://www.flickr.com/photos/tapasinthesun/
+    - name: tapasinthesun
+      url: https://www.tapasinthesun.com
+    - name: smugmug
+      url: https://www.photos.tapasinthesun.com
+    - name: rss
+      url: "/index.xml" 
+
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
+    # bing:
+      # SiteVerificationTag: "XYZabc"
+    # yandex:
+      # SiteVerificationTag: "XYZabc"
