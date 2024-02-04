@@ -1,6 +1,6 @@
 ---
 title: 'Nerja'
-date: 2024-01-12T12:01:56+01:00
+date: 2023-07-12T12:01:56+01:00
 draft: false
 ShowToc: true
 tocopen: false
@@ -13,7 +13,7 @@ imaging:
   exif:
     includeFields: .*
 
-tags: ["Mamiya M645", "B&W film"]
+tags: ["Mamiya M645", "B&W film", "Ilford FP4"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
 categories: ["Places in Spain"]

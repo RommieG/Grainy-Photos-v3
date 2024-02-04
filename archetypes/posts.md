@@ -7,14 +7,17 @@ author: Rom Gostomski
 # Show ReadingTime: true
 ShowToc: true
 tocopen: true
-summary: 'Google description is called summary.'
+summary: 'Google description is called summary.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
 draft: true
 
 tags: []
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
+# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
+# "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX"
+# "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
+
 categories: []
-# "Places in Spain" "Culture" "Walks" "Architecture"
+# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde"
 
 cover:
     image: images/xxx.jpg
@@ -25,13 +28,22 @@ ShowPostNavLinks: true
 ---
 This is the post Archetype
 
-{{< postimage "images/nerja-1.jpg" 
+**Click on any photo to see a larger version.**
+
+{{< postimg "images/xxxxx.jpg" 
 "Caption" 
 "AltText" >}}
 
+{{< postimgexif "images/xxxxx.jpg" 
+"Caption" 
+"AltText" >}}
 
-## Black and White film photos
+{{< postimgexifgps "images/xxxxx.jpg" 
+"Caption" 
+"AltText" >}}
+
+## How I created these Black and White film photos
 
 I took all the photos on this page using a xxxx camera with yyy film. Developer: xxx, 1+xx, for xx minutes @20C.
 
-Click on any photo to see a larger version.
+The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.

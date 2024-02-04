@@ -1,5 +1,5 @@
 ---
-title: "Zeiss Ikon Ikoflex IIa 855/16"
+title: "Zeiss Ikon Ikoflex IIa 855/16 Camera"
 date: 2024-01-27T13:10:31+01:00
 canonicalURL: ""
 author: Rom Gostomski

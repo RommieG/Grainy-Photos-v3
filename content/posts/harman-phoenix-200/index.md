@@ -2,7 +2,6 @@
 title: 'Harman Phoenix 200 colour film – first impressions'
 date: 2024-01-21T21:27:48+01:00
 canonicalURL: ""
-summary: 'Harman Phoenix 200 is a brand-new ISO 200. See the photos from my first roll and my thoughts about what works and what does not.'
 draft: false
 
 cover:
@@ -11,13 +10,15 @@ cover:
     caption: ''
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
+summary: 'My first impressions of the Harman Phoenix 200 colour film, a brand-new ISO 200, C41 colour experimental film with high contrast, strong visible grain and loads of character.'
 ShowToc: true
 tocopen: true
 
-tags: ["Pentax MX", "B&W film"]
+tags: ["Pentax MX", "B&W film", "Harman Phoenix"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: []
+
+categories: ["Experimental"]
 # "Places in Spain" "Culture" "Walks" "Architecture"
 
 ShowPostNavLinks: true

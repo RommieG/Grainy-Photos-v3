@@ -4,7 +4,7 @@ date: 2024-01-20T23:06:58+01:00
 canonicalURL: ""
 draft: false
 author: Rom Gostomski
-summary: '10 photos taken on the Via Verde shot on Kodak Porta 160 film using a Mamiya RB67 camera.'
+summary: 'Ten photos taken on the Via Verde shot on Kodak Porta 160 film using a Mamiya RB67 camera during a Sunday afternoon stroll.'
 
 cover:
     image: images/via-verde-cover.jpg
@@ -15,10 +15,10 @@ cover:
 ShowToc: false
 tocopen: true
 
-tags: ["Mamiya RB67"]
+tags: ["Mamiya RB67", "Kodak Porta"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: ["Walks", "Architecture"]
+categories: ["Via Verde"]
 # "Places in Spain" "Culture" "Walks" "Architecture"
 
 ShowPostNavLinks: true
