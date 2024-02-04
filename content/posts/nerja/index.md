@@ -29,6 +29,8 @@ categories: ["Places in Spain"]
 - Frigiliana, a village on the nearby mountain
 - Chillar River
 
+**Click on any photo to see a larger version.**
+
 {{< postimgexif "images/nerja-1.jpg" 
 "The impressive Acueducto del Águila near Nerja." 
 "A black-and-white photo of the impressive Acueducto del Águila near Nerja and Frigiliana spanning a steep gorge. The aqueduct comprises four levels of multiple masonry arches." >}}
@@ -83,9 +85,6 @@ Nerja also has several charming squares with numerous bars, restaurants and stre
 "Iglesia de El Salvador - shadows on the wall." 
 "A black and white film photo looking up at the Iglesia de El Salvador belfry. Shadows from a nearby pine are cast onto the white wall." >}}
 
-
-## Black and White film photos
+## Film photo details
 
 I took all the photos on this page using a Mamiya M645 1000S camera with Ilford FP4 film. Developer: Rodinal, 1+50, for 14 minutes @20C.
-
-**Click on any photo to see a larger version.**
