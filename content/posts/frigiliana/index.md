@@ -2,7 +2,7 @@
 title: 'Frigiliana'
 date: 2024-01-22T14:09:30+01:00
 canonicalURL: ""
-summary: 'Google description is called summary.'
+summary: 'Frigiliana is a picture-postcard white village in Southern Spain - see twenty-four B&W film photos taken with a Mamiya M645 film camera on Ilford FP4 film.'
 draft: false
 
 
@@ -15,7 +15,7 @@ cover:
 ShowToc: false
 tocopen: true
 
-tags: ["Mamiya M645"]
+tags: ["Mamiya M645", "B&W film", "Ilford FP4"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
 categories: ["Places in Spain"]
@@ -23,7 +23,13 @@ categories: ["Places in Spain"]
 
 ShowPostNavLinks: true
 ---
-## Black and White film photos
+> Frigiliana is located in Andalucia in Southern Spain, 70 km from Malaga and 5 km from Nerja. It is located on the slopes of Sierra Almijara and offers one of the most spectacular and beautiful panoramic views of the Costa del Sol. It is a picture postcard white village and is listed as one of the 10 most beautiful villages in Spain.
+
+Frigiliana's origin dates back to Roman times, but it was during the Arab period when it acquired its character.
+
+Frigiliana is distinctively Moorish in appearance, with the old quarter made up of amazing narrow, winding, patterned pebbled street streets full of tapas, bars, restaurants and small shops. It is well worth exploring and it is this area that I concentrated on when taking the photographs.
+
+## Film photo details
 
 I took all the photos on this page using a Mamiya 645M 1000S camera with Ilford FP4 film. Developer: Rodinal, 1+50, for 14 minutes @20C.
 
