@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: true
 tocopen: true
 summary: 'Genalguacil is a classic Andalusian white town with a difference - it is famous for its street art! A photo walk with 23 film photos taken with vintage cameras.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
-draft: true
+draft: false
 
 tags: ["Zeis Ikon Ikoflex", "Pentax Spotmatic", "B&W film", "Kentmere"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
