@@ -36,7 +36,7 @@ params:
   DateFormat: 2 January 2006
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  # hideSummary: false
+  # hideSummary: true
   description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.
   author: Rom Gostomski
 

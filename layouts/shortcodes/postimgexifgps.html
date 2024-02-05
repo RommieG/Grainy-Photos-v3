@@ -15,8 +15,9 @@
       {{ with .Tags.Model }}Camera: {{ . }},{{ end }}
       {{ with .Tags.LensModel }}Lens: {{ . }},{{ end }}
       {{ with .Tags.ExposureTime }}Exposure Time: {{ . }} sec,{{ end }}
-      {{ with .Tags.FNumber }}f {{ . }}{{ end }}
-      {{ with .Tags.ISOSpeedRatings }}, Film ISO: {{ . }}{{ end }}
+      {{ with .Tags.FNumber }}f {{ . }},{{ end }}
+      {{ with .Tags.ISOSpeedRatings }}, Film ISO: {{ . }},{{ end }}
+      <a href="https://www.google.com/maps/place/{{ .Lat }},{{ .Long }}" target="_blank">GPS location</a>
     </div>
   {{ end }}
   </figure>
