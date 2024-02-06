@@ -10,17 +10,17 @@ cover:
     image: images/xxx.jpg
     alt: 'A black-and-white film photo of '
     caption: 'Image caption'
-description: 'Google description.'
+
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
-ShowToc: true
+ShowToc: false
 tocopen: true
 
 tags: []
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
+# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Kodak Brownie"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
 
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 ---
 This is the gear Archetype
 

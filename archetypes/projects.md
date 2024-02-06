@@ -4,13 +4,13 @@ date: {{ .Date }}
 canonicalURL: ""
 author: Rom Gostomski
 summary: 'Google description is called summary.'
+summary: 'Google summary'
 draft: true
 
 cover:
     image: images/xxx.jpg
     alt: 'A black-and-white film photo of '
     caption: 'Image caption'
-description: 'Google description.'
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
 ShowToc: true

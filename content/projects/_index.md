@@ -3,13 +3,14 @@ title: 'Projects'
 date: 2024-01-27T15:03:07+01:00
 canonicalURL: ""
 author: Rom Gostomski
-draft: true
+summary: 'Some of my current photography projects, including the 100 year old camera project.'
+draft: false
 
 cover:
     image: images/xxx.jpg
     alt: 'A black-and-white film photo of '
     caption: 'Image caption'
-description: 'Google description.'
+
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
 ShowToc: true
@@ -21,7 +22,6 @@ tags: []
 
 ShowPostNavLinks: true
 ---
-This is the projects Archetype.
 
-About my Projects.
+Some of my Projects:
 
