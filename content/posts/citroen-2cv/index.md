@@ -1,5 +1,5 @@
 ---
-title: 'Citroen 2CV photos with the Mamia RB67'
+title: 'Citroen 2CV photos with the Mamiya RB67'
 date: 2021-08-22T18:29:26+01:00
 canonicalURL: ""
 author: Rom Gostomski

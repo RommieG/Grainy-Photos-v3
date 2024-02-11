@@ -1,5 +1,5 @@
 ---
-title: 'Harman Phoenix 200 colour film – roll 2'
+title: 'Harman Phoenix 200 film – roll 2'
 date: 2024-02-09T22:13:01+01:00
 canonicalURL: ""
 author: Rom Gostomski
@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: false
 tocopen: true
 summary: 'Google description is called summary.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
-draft: true
+draft: false
 
 tags: ["Pentax MX", "Harman Phoenix"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
