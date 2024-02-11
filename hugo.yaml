@@ -3,7 +3,7 @@ languageCode: en-gb
 title: Grainy Photos
 description: "A photo blog about photography (mostly B&W film) featuring photos of places in Spain."
 theme: PaperMod
-paginate: 5
+paginate: 10
 enableRobotsTXT: true
 # googleAnalytics: UA-123-45
 
@@ -37,12 +37,12 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   # hideSummary: true
-  description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.
+  description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.
   author: Rom Gostomski
 
   homeInfoParams:
     Title: 
-    Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on black & white film using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
+    Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
   socialIcons: 
     - name: mastodon
       url: https://photog.social/@tapasinthesun
