@@ -40,6 +40,14 @@ params:
   description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.
   author: Rom Gostomski
 
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    android-chrome-192x192: "/favicon/android-chrome-192x192.png"
+    android-chrome-512x512: "/favicon/android-chrome-512x512.png"
+
   homeInfoParams:
     Title: 
     Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
