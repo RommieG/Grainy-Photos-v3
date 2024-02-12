@@ -42,7 +42,8 @@ params:
   # hideSummary: true
   description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.
   author: Rom Gostomski
-  images: /img/home/featured.jpg # default image for opengraph
+  images: 
+    - /img/home/featured.jpg # default image for opengraph
   # cover:
     # image: /img/home/featured.jpg # for opengraph
     # alt: 'Grainy Photos logo image.' # for opengraph
@@ -58,7 +59,8 @@ params:
   homeInfoParams:
     Title: Film photography
     Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
-    images: /img/home/featured.jpg # default image for opengraph
+    # images: 
+      # - /img/home/featured.jpg # default image for opengraph
     # cover:
       # image: /img/home/featured.jpg # for opengraph
       # alt: 'Grainy Photos logo image.' # for opengraph
