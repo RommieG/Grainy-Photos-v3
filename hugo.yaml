@@ -32,8 +32,7 @@ cover:
 
 images:
   - /img/home/grainyphotos-cover.webp
-alt:
-  - 'some alt text'
+    alt: 'some alt text'
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -47,6 +46,7 @@ params:
   # hideSummary: true
   description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.
   author: Rom Gostomski
+  og_image: /img/home/grainyphotos-cover.webp
 
   assets:
     favicon: "/favicon/favicon.ico"
