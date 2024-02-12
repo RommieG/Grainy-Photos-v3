@@ -30,7 +30,7 @@ ShowPostNavLinks: true
 
 My [first roll of Phoenix 200](/posts/harman-phoenix-200/) was fairly successful. Rather than shooting more of the same type of photos, I thought a change of scene would be good to see how the film works in different environments. So I packed my bags and headed for a day out in the Sierras de Cazorla, Segura y las Villas. If you don't know where that is, the GPS location links under the photos will show you exactly where the photos were taken.
 
-Below is every photo from my second roll of Harman Phoenix 200 film: the good, the bad and the ugly. You can judge for yourselves...
+Below is every photo from my second roll of Harman Phoenix 200 film: the good, the bad and the ugly. You can judge for yourselves.
 
 ## Film photo details
 
