@@ -5,6 +5,7 @@ description: "A photo blog about photography (mostly B&W film) featuring photos 
 theme: PaperMod
 paginate: 10
 enableRobotsTXT: true
+images: /img/home/featured.jpg # default image for opengraph
 
 minify:
   disableXML: true
