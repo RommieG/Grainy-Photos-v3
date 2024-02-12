@@ -25,14 +25,7 @@ menu:
       url: /projects/
       weight: 60
 
-cover:
-  image: /img/home/grainyphotos-cover.webp
-  alt: 'Website banner comprising an old large format film camera pencil drawing of the left with the text: GRAINY PHOTOS, FILM PHOTOGRAPHY. A black-and-white photo on the right shows an arid landscape with a large dessicated tree in the left foreground with rolling hills in the mid and background'
-  Caption: ''
 
-images: /img/home/grainyphotos-cover.webp
-
-og_image: /img/home/grainyphotos-cover.webp
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -58,6 +51,14 @@ params:
   homeInfoParams:
     Title: Film photography
     Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
+    cover:
+      image: /img/home/grainyphotos-cover.webp
+      alt: 'Website banner comprising an old large format film camera pencil drawing of the left with the text: GRAINY PHOTOS, FILM PHOTOGRAPHY. A black-and-white photo on the right shows an arid landscape with a large dessicated tree in the left foreground with rolling hills in the mid and background'
+      Caption: ''
+
+    images: /img/home/grainyphotos-cover.webp
+
+    og_image: /img/home/grainyphotos-cover.webp
 
   socialIcons: 
     - name: mastodon
