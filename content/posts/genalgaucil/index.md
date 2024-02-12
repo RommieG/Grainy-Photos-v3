@@ -20,7 +20,7 @@ categories: ["Places in Spain", "White village"]
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde"
 
 cover:
-    image: /posts/genalcaucil/images/genalgaucil-cover.jpg
+    image: /posts/genalgaucil/images/genalgaucil-cover.jpg
     alt: 'A black-and-white film photo of Genalguacil nestling on the hillside in the Genal Valley'
     caption: 'Genalguacil in the Genal Valley'
 

@@ -7,7 +7,7 @@ author: Rom Gostomski
 # Show ReadingTime: true
 ShowToc: false
 tocopen: true
-summary: 'Google description is called summary.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
+summary: 'Harman Phoenix 200 is a new colour C41 negative film, full of character and a unique look. See all 36 photos from my second roll of this interesting film.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
 draft: false
 
 tags: ["Pentax MX", "Harman Phoenix"]
