@@ -63,9 +63,9 @@ params:
     - name: rss
       url: "/index.xml" 
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-KF6JB1QP90"
+  # analytics:
+    # google:
+      # SiteVerificationTag: "G-does not work with G code" - code added using layouts/partials/extend_head.html
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:

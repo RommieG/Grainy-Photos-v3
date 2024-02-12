@@ -20,7 +20,7 @@ categories: []
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
 
 cover:
-    image: images/citroen-2cv-cover.jpg
+    image: images/featured.jpg
     alt: 'A black-and-white film photo of the front of a Citreon 2CV, concentrating mostly on the headlights and grill.'
     caption: ''
 
