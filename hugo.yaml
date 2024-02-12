@@ -5,7 +5,6 @@ description: "A photo blog about photography (mostly B&W film) featuring photos 
 theme: PaperMod
 paginate: 10
 enableRobotsTXT: true
-# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -30,6 +29,11 @@ cover:
   image: /img/home/grainyphotos-cover.webp
   alt: 'Website banner comprising an old large format film camera pencil drawing of the left with the text: GRAINY PHOTOS, FILM PHOTOGRAPHY. A black-and-white photo on the right shows an arid landscape with a large dessicated tree in the left foreground with rolling hills in the mid and background'
   Caption: ''
+
+images:
+  - /img/home/grainyphotos-cover.webp
+alt:
+  - 'some alt text'
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
