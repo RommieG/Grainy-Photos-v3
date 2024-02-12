@@ -5,11 +5,6 @@ description: "A photo blog about photography (mostly B&W film) featuring photos 
 theme: PaperMod
 paginate: 10
 enableRobotsTXT: true
-# images: /img/home/featured.jpg # default image for opengraph
-# cover:
-  # image: /img/home/featured.jpg # for opengraph
-  # alt: 'Grainy Photos logo image.' # for opengraph
-
 
 minify:
   disableXML: true
@@ -32,6 +27,8 @@ menu:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  images: 
+    - /img/home/featured.png # default image for opengraph
   ShowShareButtons: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
@@ -42,12 +39,7 @@ params:
   # hideSummary: true
   description: A photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.
   author: Rom Gostomski
-  images: 
-    - /img/home/featured.jpg # default image for opengraph
-  # cover:
-    # image: /img/home/featured.jpg # for opengraph
-    # alt: 'Grainy Photos logo image.' # for opengraph
-
+  
   assets:
     favicon: "/favicon/favicon.ico"
     favicon16x16: "/favicon/favicon-16x16.png"
@@ -59,12 +51,6 @@ params:
   homeInfoParams:
     Title: Film photography
     Content: Welcome to my photo blog about film photography featuring photos of places in Spain. All the photos are shot on film (mostly black-and-white) using vintage cameras.{{< line_break >}}{{< line_break >}}Let's go and shoot some film...
-    # images: 
-      # - /img/home/featured.jpg # default image for opengraph
-    # cover:
-      # image: /img/home/featured.jpg # for opengraph
-      # alt: 'Grainy Photos logo image.' # for opengraph
-
 
   socialIcons: 
     - name: mastodon
