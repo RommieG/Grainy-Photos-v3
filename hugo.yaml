@@ -32,7 +32,6 @@ cover:
 
 images:
   - /img/home/grainyphotos-cover.webp
-    alt: 'some alt text'
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
