@@ -7,7 +7,7 @@ draft: false
 
 
 cover:
-    image: images/frigiliana-cover.jpg
+    image: /posts/frigiliana/images/frigiliana-cover.jpg
     alt: 'A black-and-white film photo of a street in Frigiliana.'
     caption: ''
 # ShowBreadCrumbs: true

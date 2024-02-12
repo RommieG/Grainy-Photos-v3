@@ -7,7 +7,7 @@ author: Rom Gostomski
 summary: 'Ten photos taken on the Via Verde shot on Kodak Porta 160 film using a Mamiya RB67 camera during a Sunday afternoon stroll.'
 
 cover:
-    image: images/via-verde-cover.jpg
+    image: /posts/via-verde/images/via-verde-cover.jpg
     alt: 'Colour photo of the Via Verde going into the distance. On the left is a bench under a tree.'
     caption: ''
 # ShowBreadCrumbs: true

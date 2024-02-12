@@ -20,7 +20,7 @@ categories: ["Experimental"]
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
 
 cover:
-    image: images/phoenix200-roll2-cover.jpg
+    image: /posts/harman-phoenix-roll-2/images/phoenix200-roll2-cover.jpg
     alt: 'A colour film photo of trail signposts in the Cazorla Natural Park'
     caption: ''
 

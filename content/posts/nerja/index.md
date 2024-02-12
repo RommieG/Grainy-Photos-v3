@@ -6,7 +6,7 @@ ShowToc: true
 tocopen: false
 summary: 'Nerja is a picturesque coastal resort town approximately 50 kilometres east of Málaga, Spain. 16 film photos shot on Ilford FP4 with a Mamiya M645'
 cover:
-    image: images/nerja-cover.jpg
+    image: /posts/nerja/images/nerja-cover.jpg
     alt: 'Black and white photo ...'
     caption: 'Nerja viewed from Balcon Europa'
 imaging:

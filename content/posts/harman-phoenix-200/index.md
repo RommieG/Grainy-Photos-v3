@@ -5,7 +5,7 @@ canonicalURL: ""
 draft: false
 
 cover:
-    image: images/phoenix200-cover.jpg
+    image: /posts/harman-phoenix-200/images/phoenix200-cover.jpg
     alt: 'A film photo of of autumn leaves and fruits on a tree.'
     caption: ''
 # ShowBreadCrumbs: true

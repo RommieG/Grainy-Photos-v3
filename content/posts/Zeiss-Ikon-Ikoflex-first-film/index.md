@@ -20,7 +20,7 @@ categories: ["Cortijo"]
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde"
 
 cover:
-    image: images/zeis-ikon-ikoflex-cover.jpg
+    image: /posts/zeiss-ikon-ikoflex-first-film/images/zeis-ikon-ikoflex-cover.jpg
     alt: 'A black-and-white film photo of a semi-abandoned cortijo in the olive groves with a dirt track leading to it.'
     caption: 'A semi-abandoned cortijo in the olive groves'
 
