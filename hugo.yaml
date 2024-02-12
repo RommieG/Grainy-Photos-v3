@@ -63,9 +63,9 @@ params:
     - name: rss
       url: "/index.xml" 
 
-  # analytics:
-    # google:
-      # SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-KF6JB1QP90"
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:
