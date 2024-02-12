@@ -30,8 +30,7 @@ cover:
   alt: 'Website banner comprising an old large format film camera pencil drawing of the left with the text: GRAINY PHOTOS, FILM PHOTOGRAPHY. A black-and-white photo on the right shows an arid landscape with a large dessicated tree in the left foreground with rolling hills in the mid and background'
   Caption: ''
 
-images:
-  - /img/home/grainyphotos-cover.webp
+images: /img/home/grainyphotos-cover.webp
 
 og_image: /img/home/grainyphotos-cover.webp
 
