@@ -28,11 +28,11 @@ ShowPostNavLinks: true
 ---
 This is the tale of two cortijos in one morning.
 
-In Spain, the bright, harsh sun makes for difficult lighting conditions for photography. Clear blue skies also make the featureless sky boring. Whenever possible. I prefer to take photographs when there is light cloud cover, particularly white fluffy clouds. On this particular day, a storm was forecasted for the afternoon, and the clouds were already starting to build. So, keen to make the most of the conditions, I set off with my camera and my dog Flo to photograph two abandoned cortijos I had discovered some time ago.
+In Spain, the bright, harsh sun makes for difficult lighting conditions for photography. Clear blue skies also make the featureless sky boring. Whenever possible, I prefer to take photographs when there is light cloud cover, particularly white fluffy clouds. On this particular day, a storm was forecasted for the afternoon, and the clouds were already starting to build. So, keen to make the most of the conditions, I set off with my camera and my dog Flo to photograph two abandoned cortijos I had discovered some time ago.
 
 ## What is a cortijo?
 
-A Spanish cortijo is a traditional rural dwelling or farmhouse typically found in southern Spain, particularly in regions like Andalusia, Extremadura, and parts of Murcia. These structures are an integral part of the agricultural landscape and reflect the historical and cultural heritage of the region.
+A Spanish cortijo is a traditional rural dwelling or farmhouse typically found in southern Spain, particularly in regions like Andalucia, Extremadura, and parts of Murcia. These structures are an integral part of the agricultural landscape and reflect the historical and cultural heritage of the region.
 
 Cortijos were historically used as residences for farm owners, agricultural workers, and their families who lived and worked on large estates known as "fincas" or "cortijadas." They served as the centre of agricultural activity, providing housing for the landowners and farm labourers and storage space for agricultural equipment and produce.
 
@@ -71,7 +71,7 @@ Approaching the first cortijo, the sky was lightly overcast with the sun peeking
 "A black-and-white photo looking along the front facade of the cortijo. The entrance porch also has a side arched opening; you can see right through it and the fields beyond." >}}
 
 {{< postimgexif "images/two-cortijos-07.jpg" 
-"7" 
+"A two-storey wing on the right-hand-side of the cortijo" 
 "A black-and-white photo of a two-storey wing built onto the RHS of the building. All the render has spalled, including the ornate mouldings which were around the windows.The windows are missing." >}}
 
 {{< postimgexif "images/two-cortijos-08.jpg" 
