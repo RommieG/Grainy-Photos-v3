@@ -20,7 +20,7 @@ categories: []
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
 
 cover:
-    image: /posts/postxxxx/images/xxx.jpg
+    image: /posts/post-folder/images/cover.jpg
     alt: 'A black-and-white film photo of '
     caption: 'Image caption'
 
