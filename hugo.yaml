@@ -16,6 +16,10 @@ menu:
       name: About
       url: /about/
       weight: 40
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 45
     - identifier: gear
       name: Gear
       url: /gear/
