@@ -34,7 +34,7 @@ In order to mix things up a bit, I went for a day on the coast, near Motril in S
 
 ## Film photo details
 
-I took all the photos on this page using a Pentax MX camera with Harman Phoenix 200 film rated at 133 ISO. Aperture and shutter settings are provided below every photo. I developed the film using a Tetenal ColorTec C41 kit for 9 minutes @30C.
+I took all the photos on this page using a [Pentax MX](/gear/cameras/pentax-mx/) camera with Harman Phoenix 200 film rated at 133 ISO. Aperture and shutter settings are provided below every photo. I developed the film using a Tetenal ColorTec C41 kit for 9 minutes @30C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using SmartConvert and Capture One software.
 

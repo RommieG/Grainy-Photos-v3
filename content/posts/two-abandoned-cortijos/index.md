@@ -21,7 +21,7 @@ categories: []
 
 cover:
     image: /posts/two-abandoned-cortijos/images/cover.jpg
-    alt: 'A black-and-white film photo of a very grand abandoned cortijo'
+    alt: 'A black-and-white film photo of a very grand abandoned cortijo complex. The main house is on the left with various outbuildings to the right.'
     caption: ''
 
 ShowPostNavLinks: true
@@ -104,7 +104,7 @@ We followed narrow country lanes and dirt tracks. The almond trees were in bloss
 
 {{< postimgexif "images/two-cortijos-25.jpg" 
 "A narrow country lane with an almond tree in blossom and a private hunting sign on the right" 
-"A black-and-white photo of" >}}
+"A black-and-white photo of a narrow country lane through the olive groves." >}}
 
 ## The second abandoned cortijo
 

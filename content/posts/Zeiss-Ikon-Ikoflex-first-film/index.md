@@ -34,7 +34,7 @@ Below are all the photos from my first roll of film through the Ikoflex IIa. I u
 
 ## Photo details
 
-I took all the photos on this page using a Zeiss Ikon Ikoflex IIa 855/16 camera (Zeiss 75mm f3.5 fixed lens) with Ilford FP4 film. 
+I took all the photos on this page using a [Zeiss Ikon Ikoflex IIa 855/16](/gear/cameras/zeiss-ikon-ikoflex/) camera (Zeiss 75mm f3.5 fixed lens) with Ilford FP4 film. 
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

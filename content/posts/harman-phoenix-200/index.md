@@ -31,24 +31,24 @@ Harman released Phoenix 200 35mm colour film on 1 December 2023. Phoenix 200 is 
 
 - High contrast
 - Strong visible grain
-- Punchy vibrant colours
+- Punchy, vibrant colours
 - Possibility of halation
 - Characterful
 - Unmistakably analogue
 
 Numerous videos were released on the day the film was released by YouTubers who had received advance rolls of Phoenix 200 to try.
 
-The initial photos that I saw were very variable; a lot of them I just plain didn’t like. That made me curious. Why do the results vary so much? What is this film really like?
+The initial photos I saw were very variable; I just didn’t like a lot of them. That made me curious. Why do the results vary so much? What is this film really like?
 
 > *Harman Phoenix is an experimental, limited-edition film and the first step on our colour journey. Making colour films is very different to black & white and while we have made good progress, we recognise we have a lot more to learn. Please embrace this film for all its quirks and differences.*
 >
 > Harman Photo
 
-Although I shoot very little colour film, I decided that I had to try this film. I also thought it was exciting that Harman had released a new colour film. Not repackaged, not rebranded, but brand new, developed from scratch. I had to be part of this… so I ordered three rolls.
+Although I shoot very little colour film, I decided that I had to try this film. I also thought it exciting that Harman released a new colour film. It is not repackaged or rebranded but brand new and developed from scratch. I had to be part of this… so I ordered three rolls.
 
 ## The plan
 
-While I waited for the film to arrive, I looked at videos, studied photos and analysed what I liked and what I didn’t like. I had plenty of time because although a delivery time of 48 hours had been quoted, it took two weeks (presumably because of the pre-Christmas rush).
+While waiting for the film to arrive, I looked at videos, studied photos and analysed what I liked and didn’t like. I had plenty of time because although a delivery time of 48 hours had been quoted, it took two weeks (presumably because of the pre-Christmas rush).
 
 I preferred photos shot with the film rated at 100ish ISO. Simple compositions which filled the frame seemed to work better. But the key appeared to be avoid having the film scanned by a lab. DIY scans usually looked much better. So I ordered a Tetenal Colourtec C41 kit. I was going to do everything myself!
 
@@ -57,7 +57,7 @@ The film and chemistry arrived a few days before Christmas. I loaded my camera a
 ## Roll 1
 
 Film: Harman Phoenix 200 rated at 133 ISO (film roll ref. 367)
-Camera: Pentax MX  
+Camera: [Pentax MX](/gear/cameras/pentax-mx/)  
 Lenses: SMC Pentax-M 1:1.7 50mm and SMC Pentax-M 1:4 75-150mm zoom
 
 ***Click on any photo to see a larger version.***
