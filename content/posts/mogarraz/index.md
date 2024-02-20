@@ -155,3 +155,5 @@ The photos were taken throughout the old quarters of Mogarraz. Let's take a wand
 "A black-and-white film photo of a narrow street in Mogarraz." >}}
 
 Film roll No's 272 and 274
+
+{{< catlinkPlacesinSpain >}}

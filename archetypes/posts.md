@@ -52,3 +52,4 @@ Film roll No's ...
 
 {{< catlinkWhiteVillages >}}
 {{< catlinkViaVerde >}}
+{{< catlinkPlacesinSpain >}}
