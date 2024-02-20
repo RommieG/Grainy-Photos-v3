@@ -30,9 +30,9 @@ ShowPostNavLinks: true
 
 Mogarraz is a small, picturesque village in the province of Salamanca, situated in the autonomous community of Castile and León in north-western Spain. It is nestled in the Sierra de Francia mountain range within the natural park known as Las Batuecas-Sierra de Francia. It is approximately 80 kilometres southwest of the city of Salamanca.
 
-{{< postimgexifgps "images/mogarraz-01.jpg" 
-"Mogarraz, an old traditional Spanish village full of history and charm" 
-"The main street through the old part of Mogarraz. Traditional stone and timber-framed houses on both sides of the cobbled street." >}}
+{{< postimgexifgps "images/mogarraz-14.jpg" 
+"The main street through the old quarters of Mogarraz" 
+"A black-and-white film photo of the main street through the old quarters of Mogarraz. Three-storey stone and timber-framed houses are on both sides of the cobbled street." >}}
 
 ## The history of Mogarraz
 
@@ -85,6 +85,10 @@ The photos were taken throughout the old quarters of Mogarraz. Let's take a wand
 
 **Click on any photo to see a larger version.**
 
+{{< postimgexifgps "images/mogarraz-01.jpg" 
+"Mogarraz, an old traditional Spanish village full of history and charm" 
+"The main street through the old part of Mogarraz. Traditional stone and timber-framed houses on both sides of the cobbled street." >}}
+
 {{< postimgexifgps "images/mogarraz-02.jpg" 
 "Sleepy cats in a side alley" 
 "A black-and-white film photo of a side alley with old stone houses. Two cats are dozing in the middle of the alley. Stone steps on the left and right lead up to the front doors of houses." >}}
@@ -129,9 +133,6 @@ The photos were taken throughout the old quarters of Mogarraz. Let's take a wand
 "A blind, side alley" 
 "A black-and-white film photo of a blind, side alley with old stone and timber-framed houses." >}}
 
-{{< postimgexifgps "images/mogarraz-14.jpg" 
-"The main street through the old quarters of Mogarraz" 
-"A black-and-white film photo of the main street through the old quarters of Mogarraz. Three-storey stone and timber-framed houses are on both sides of the cobbled street." >}}
 
 {{< postimgexifgps "images/mogarraz-15.jpg" 
 "The main street through the old quarters of Mogarraz" 
