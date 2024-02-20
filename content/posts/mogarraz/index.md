@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: true
 tocopen: true
 summary: 'Twenty black-and-white film photos from Mogarraz taken with vintage cameras. Mogarraz is one of my favourite villages in Spain; it has history, is very picturesque, has a great location, and oozes charm.'
-draft: true
+draft: false
 
 tags: ["Mamiya M645", "Nikon FE2", "B&W film", "Ilford FP4", "Ilford Delta"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
