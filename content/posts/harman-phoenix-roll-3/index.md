@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: true
 tocopen: true
 summary: 'All 36 photos from my third roll of Harman Phoenix 200 film, shot mostly on the coast near Motril. I think these are my best Phoenix 200 photos so far.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
-draft: true
+draft: false
 
 tags: ["Pentax MX", "Colour film", "Harman Phoenix"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
