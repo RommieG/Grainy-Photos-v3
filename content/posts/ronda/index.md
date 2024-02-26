@@ -133,6 +133,10 @@ This arch is situated near the Plaza de Mondragón, one of the main squares in R
 "A view of the newer part of the city from Arco de Felipe V" 
 "A black-and-white film photo of the newer part of the city viewed from the Arco de Felipe V." >}}
 
+<iframe src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=1280&height=720&albumId=370613013&albumKey=T4XrB8"></iframe>
+
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="1280" height="720" src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=1280&height=720&albumId=370613013&albumKey=T4XrB8"></iframe>
+
 Film roll No's 356 and 358.
 
 {{< catlinkPlacesinSpain >}}
