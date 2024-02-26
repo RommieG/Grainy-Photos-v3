@@ -7,7 +7,7 @@ author: Rom Gostomski
 # Show ReadingTime: true
 ShowToc: true
 tocopen: true
-summary: 'Find out about Ronda in Spain, known for its stunning scenery, rich history, and cultural heritage - includes twelve film photos of the most famous landmarks.' 
+summary: 'Find out about Ronda in Spain, known for its stunning scenery, rich history, and cultural heritage - includes fifteen film photos of the most famous landmarks.' 
 draft: false
 
 tags: ["Zeis Ikon Ikoflex", "B&W film", "Kentmere"]
@@ -26,7 +26,7 @@ cover:
 
 ShowPostNavLinks: true
 ---
-> Find out about Ronda, a popular tourist destination known for its stunning scenery, rich history, and cultural heritage. This article includes twelve black-and-white film photographs taken with a vintage Zeiss Ikon Ikoflex IIa 855/16 twin-lens reflex camera.
+> Find out about Ronda, a popular tourist destination known for its stunning scenery, rich history, and cultural heritage. This article includes fifteen black-and-white film photographs taken with a vintage Zeiss Ikon Ikoflex IIa 855/16 twin-lens reflex camera and a video showing the photo locations.
 
 Ronda is a city located in the province of Málaga, Andalusia, Spain. The region is known as the Serranía de Ronda and is characterised by its rugged terrain and deep gorges. Ronda is positioned atop a plateau overlooking the Guadalevín River gorge, famously known as El Tajo. Ronda remains an important cultural and economic centre in Andalusia, attracting visitors from around the world.
 
@@ -70,7 +70,7 @@ The most iconic feature of Ronda is the El Tajo Gorge, a dramatic gorge carved b
 The gorge is so deep it was impossible to do it justice with a square format fixed lens camera. It really needs a vertical panoramic format. I hope to return and take such a photo.
 
 ### Puente Nuevo (New Bridge)
-Spanning the El Tajo Gorge, the Puente Nuevo is one of Ronda's most famous landmarks. Built in the 18th century, it is an architectural marvel and offers stunning panoramic views of the gorge below. The bridge is an emblem of Ronda and a symbol of its strength and resilience.
+Three bridges span the span of the El Tajo Gorge, a 120-metre-deep chasm that carries the Guadalevín River. The most famous is the Puente Nuevo, which is one of Ronda's most famous landmarks. Built in the 18th century, it is an architectural marvel and offers stunning panoramic views of the gorge below. The bridge is an emblem of Ronda and a symbol of its strength and resilience.
 
 {{< postimgexifgps "images/ronda-03.jpg" 
 "Puente Nuevo" 
@@ -82,9 +82,19 @@ Spanning the El Tajo Gorge, the Puente Nuevo is one of Ronda's most famous landm
 
 Like the gorge, it was impossible to show the bridge's height with a square format fixed lens camera. Another reason to revisit with a more suitable camera.
 
+### Puente Viejo (Old Bridge)
+
+The bridge's construction dates back to the Moorish period in the 17th century, although it has undergone renovations and modifications over the centuries. It is a stunning example of Moorish architecture and engineering, featuring a single arch that spans the deep gorge below.
+
+{{< postimgexifgps "images/ronda-15.jpg" 
+"Puente Viejo" 
+"A black-and-white film photo of the old bridge. This is a single arch structure spanning the 120-metre deep chasm that carries the Guadalevín River" >}}
+
 ### Plaza de Toros (Bullring)
 Ronda's Plaza de Toros is one of Spain’s oldest and most beautiful bullrings. Built in the 18th century, it is renowned for its unique architecture and historical significance. Ronda is considered one of the birthplaces of modern bullfighting, and its bullring is a must-visit for fans and tourists alike.
+
 ### Historic Old Town
+
 Ronda's historic old town is a charming labyrinth of narrow streets, whitewashed buildings, and picturesque squares. It is home to many historic landmarks, including the Moorish palace of Mondragón, the Church of Santa María la Mayor, and the Arab Baths. Strolling through the old town is like stepping back in time, with centuries of history and culture waiting to be explored.
 
 {{< postimgexifgps "images/ronda-04.jpg" 
@@ -99,13 +109,27 @@ Ronda's historic old town is a charming labyrinth of narrow streets, whitewashed
 "A narrow alley" 
 "A black-and-white film photo of a narrow cobbled alley in the old town." >}}
 
-### Iglesia de Santa María la Mayor
+### Churches in Ronda
 
-The most famous church in Ronda is the Church of Santa María la Mayor (Iglesia de Santa María la Mayor). This church is located in the heart of Ronda's old town and is known for its impressive blend of architectural styles, including Gothic, Renaissance, and Baroque elements. The church features a stunning façade adorned with intricate details, a beautiful interior with ornate altars, chapels, artwork, and a prominent bell tower that offers panoramic views of the surrounding area.
+There are several churches in Ronda, but the most famous is the Church of Santa María la Mayor (Iglesia de Santa María la Mayor). This church is located in the heart of Ronda's old town and is known for its impressive blend of architectural styles, including Gothic, Renaissance, and Baroque elements. The church features a stunning façade adorned with intricate details, a beautiful interior with ornate altars, chapels, artwork, and a prominent bell tower that offers panoramic views of the surrounding area.
 
 {{< postimgexifgps "images/ronda-07.jpg" 
 "Iglesia de Santa María la Mayor" 
 "A black-and-white film photo of the Church of Santa María la Mayor. The photo is taken from the square in front of the church. On the right-hand side, in the shade of trees, is a street cafe with tables and chairs and parasols." >}}
+
+At the other end of the scale, I came across La Ermita de San Miguel, which I found very interesting. This had fallen into disrepair, but the main walls and the belfry have been restored. The exact origins of La Ermita de San Miguel are not well-documented, but it is believed to date back to the Middle Ages, possibly the 16th century. It was likely built on the site of an earlier Islamic structure. 
+
+{{< postimgexifgps "images/ronda-13.jpg" 
+"La Ermita de San Miguel" 
+"A black-and-white film photo of the restored ruins of the La Ermita de San Miguel. Just the stone walls with the main entrance and a small belfry are standing." >}}
+
+### Baños Árabes
+
+The Arab baths consist of a series of rooms with pools of different temperatures, resembling the traditional hammams found in Islamic culture. Unfortunately, they were closed at the time of my visit, so I could only get this one photo from the outside.
+
+{{< postimgexifgps "images/ronda-14.jpg" 
+"Baños Árabes" 
+"A black-and-white film photo of the Arab baths taken from the street. In the photo there are perimeter stone walls with a series of masonry arches within." >}}
 
 ### City walls
 
@@ -133,10 +157,15 @@ This arch is situated near the Plaza de Mondragón, one of the main squares in R
 "A view of the newer part of the city from Arco de Felipe V" 
 "A black-and-white film photo of the newer part of the city viewed from the Arco de Felipe V." >}}
 
-<iframe src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=1280&height=720&albumId=370613013&albumKey=T4XrB8"></iframe>
+Photos from film roll No's 356 and 358.
 
-<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="1280" height="720" src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=1280&height=720&albumId=370613013&albumKey=T4XrB8"></iframe>
+## Video of the photo locations
 
-Film roll No's 356 and 358.
+A photo captures a moment in time but does not convey the whole picture; it does not show what is out of the shot. I made the following video during the photo walk. It shows a general overview of the walk, including the general surroundings at each photo location.
+
+{{< rawhtml >}}
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="720" height="405" src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=720&height=405&albumId=370613013&albumKey=T4XrB8"></iframe>
+{{< /rawhtml >}}
+.
 
 {{< catlinkPlacesinSpain >}}
