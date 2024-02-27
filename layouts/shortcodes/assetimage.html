@@ -7,7 +7,7 @@
 <figure>
     <a href="{{ $image.RelPermalink }}">
     {{ with $smallImage }}
-    <div id="imgcenter"><img src="{{ $smallImage.RelPermalink }}"
+    <div id="imgcenter"><img loading="lazy" src="{{ $smallImage.RelPermalink }}"
         width="{{ .Width }}" height="auto"
         alt="{{ $.Get 2 }}" /></div>
     {{ end }}

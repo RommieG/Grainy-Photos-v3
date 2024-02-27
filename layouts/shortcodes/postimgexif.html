@@ -4,7 +4,7 @@
 <figure class="post-figure">
   <a href="{{ $image.RelPermalink }}">
     {{ with $smallImage }}
-    <div id="imgcenter"><img src="{{ .RelPermalink }}"
+    <div id="imgcenter"><img loading="lazy" src="{{ .RelPermalink }}"
          width="{{ .Width }}" height="auto"
          alt="{{ $.Get 2 }}" /></div>
     {{ end }}
