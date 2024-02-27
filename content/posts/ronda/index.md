@@ -164,7 +164,7 @@ Photos from film roll No's 356 and 358.
 A photo captures a moment in time but does not convey the whole picture; it does not show what is out of the shot. I made the following video during the photo walk. It shows a general overview of the walk, including the general surroundings at each photo location.
 
 {{< rawhtml >}}
-<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="720" height="405" loading="lazy" src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=720&height=405&albumId=370613013&albumKey=T4XrB8"></iframe>
+<iframe allow="fullscreen" allowfullscreen="true" frameborder="0" scrolling="no" width="720" height="405" loading="lazy" src="https://api.smugmug.com/services/embed/14218362820_MmgB6c6?width=720&height=405&albumId=370613013&albumKey=T4XrB8" title="Video of the photo walk showing the photo locations"></iframe>
 {{< /rawhtml >}}
 .
 
