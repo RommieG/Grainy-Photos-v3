@@ -7,9 +7,9 @@ summary: 'Google description is called summary.'
 draft: true
 
 cover:
-    image: images/xxx.jpg
-    alt: 'A black-and-white film photo of '
-    caption: 'Image caption'
+    image: images/folder/xxx.jpg
+    alt: 'alt'
+    caption: ''
 
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
@@ -24,3 +24,6 @@ ShowPostNavLinks: false
 ---
 This is the gear Archetype
 
+{{< assetimage "/images/folder/xxxx-02.jpg"
+"caption" 
+"A photo of the xxxx.">}}
