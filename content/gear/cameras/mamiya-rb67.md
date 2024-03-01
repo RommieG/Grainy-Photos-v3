@@ -28,7 +28,7 @@ The Mamiya RB67 was my first 120-film camera and my introduction to medium-forma
 
 ## History
 
-The RB67 was a fully mechanical camera. Three versions were made: the RB67 Pro, RB67 Pro-S and RB67 Pro-SD. Production of the RB67 Pro started in 1970. The Pro-S model came out in 1974 with a modified focusing screen, which indicated the orientation of the back (i.e. landscape or portrait) by red lines. The final model, the Pro-SD, was released in 1990.
+The RB67 was a fully mechanical camera. Three versions were made: the RB67 Pro, the RB67 Pro-S and the RB67 Pro-SD. Production of the RB67 Pro started in 1970. The Pro-S model came out in 1974 with a modified focusing screen, which indicated the orientation of the back (i.e. landscape or portrait) by red lines. The final model, the Pro-SD, was released in 1990.
 
 The successor to the RB67 was the RZ67, released in 1982. The biggest difference is that the RB67 is completely mechanical while the RZ67 has an electronic shutter; it is able to transmit exposure information via electronic couplings. In addition, the RZ67 has a plastic exterior body, which makes it somewhat lighter.
 
