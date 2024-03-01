@@ -4,7 +4,7 @@ date: 2024-02-29T23:31:44+01:00
 canonicalURL: ""
 author: Rom Gostomski
 Summary: 'About the Mamiya RB67, a legendary medium-format film camera that has gained immense popularity among professional photographers and enthusiasts since its introduction in 1970.'
-draft: true
+draft: false
 
 cover:
     image: images/mamiya-rb67/mamiya-rb67-cover.jpg
