@@ -38,7 +38,7 @@ The RB67 utilizes 120 and 220 roll film, producing large 6x7 cm negatives; 6x8 c
 
 The RB67 is built like a tank, with a sturdy metal construction that exudes durability and reliability. The camera's large size and weight may not make it the most portable option, but its ergonomics and handling are well-regarded among photographers who appreciate its solid feel and intuitive controls. It was particularly well suited for professional use in studios.
 
-{{< assetimage "/images/mamiya-rb67/Mamiya-rb67-02.jpg"
+{{< assetimage "/images/mamiya-rb67/mamiya-rb67-02.jpg"
 "A Mamiya RB67 with a standard 90mm Sekor C lens" 
 "A photo of the Mamiya RB67 with a standard 90mm Sekor C lens.">}}
 
@@ -46,7 +46,7 @@ The RB67 is built like a tank, with a sturdy metal construction that exudes dura
 
 The RB67 is renowned for its unique rotating back mechanism, allowing photographers to quickly switch between landscape and portrait orientations without turning the entire camera. This feature is especially handy for studio photographers who need to maintain consistent framing while changing compositions.
 
-{{< assetimage "/images/mamiya-rb67/Mamiya-rb67-06.jpg"
+{{< assetimage "/images/mamiya-rb67/mamiya-rb67-06.jpg"
 "The film-back on the Mamiya RB67 in the landscape orientation. For portrait, it simply rotates 90 degrees." 
 "A photo of the back of a Mamiya RB67 showing the film-back in the landscape orientation.">}}
 
@@ -55,7 +55,7 @@ The RB67 is renowned for its unique rotating back mechanism, allowing photograph
 One of the standout features of the RB67 is its modular design. The camera body consists of three main components: the body itself, the lens, and the film back. This modularity allows photographers to interchange lenses, film backs, viewfinders, and other accessories to suit different shooting requirements.
 
 
-{{< assetimage "/images/mamiya-rb67/Mamiya-rb67-01.jpg"
+{{< assetimage "/images/mamiya-rb67/mamiya-rb67-01.jpg"
 "The film back removed from the camera body and disassembled" 
 "A photo of the Mamiya RB67 with the film back removed from the camera body and disassembled.">}}
 
@@ -73,7 +73,7 @@ The RB67 features a bellows focusing system, which allows for precise manual foc
 
 One of the problems of a bellows focusing system is light fall-off due to the extension of the bellows when focusing at closer distances. Mamiya addressed this by utilising a graph on the side of the camera, which was revealed as the bellows extension increased. The graph had curves for the Mamiya lenses, and you read off the necessary corrections and applied them manually to the camera settings.
 
-{{< assetimage "/images/mamiya-rb67/Mamiya-rb67-05.jpg"
+{{< assetimage "/images/mamiya-rb67/mamiya-rb67-05.jpg"
 "Focusing was by means of a bellows system operated by a rotary knob on both the LHS and RHS of the camera." 
 "A photo of the Mamoya RB67 camera showing the focusing knob and the shutter cocking lever.">}}
 
