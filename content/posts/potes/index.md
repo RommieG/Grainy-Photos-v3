@@ -63,11 +63,11 @@ In recent decades, Potes has experienced a boom in tourism due to its picturesqu
 Many of the houses in the old part of Potes are built from local stone, which was readily available in the surrounding area. Using stone provides strength and durability and lends a rustic and timeless appearance to the buildings. We will explore the old part of the town in this post. Let's go...
 
 {{< postimgexifgps "images/potes-02.jpg" 
-"Traditional masonry, constructed houses" 
+"" 
 "A black-and-white film photo of traditional masonry, constructed houses in the old part of Potes." >}}
 
 {{< postimgexifgps "images/potes-04.jpg" 
-"Traditional masonry, constructed houses" 
+"" 
 "A black-and-white film photo of traditional masonry, constructed houses in the old part of Potes." >}}
 
 The houses in the old part of Potes are often clustered closely together along narrow, winding streets. The streets are typically paved with cobblestones, further enhancing the area's historic atmosphere. Cobblestone streets are common in medieval towns and provide a charming backdrop for pedestrians and visitors. 
