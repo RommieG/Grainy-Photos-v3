@@ -60,8 +60,8 @@ I use the following lenses with the Spotmatic:
 
 - [Super-Takumar 28mm f3.5 lens](/gear/lenses/takumar-28mm/) 
 - [Super-Takumar 35mm f2 lens](/gear/lenses/takumar-35mm/)
-- [Super-Takumar 50mm f4 macro lens](/gear/lenses/takumar-50mm-macro/) 
 - [Super-Takumar 135mm lens](/gear/lenses/takumar-135mm/)
+- [Super-Multi-Coated Macro Takumar 50mm f4 lens](/gear/lenses/takumar-50mm-macro/) 
 
 ## Focusing and handling
 
