@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Grainy Photos</title>
+    <link>https://grainyphotos.com/projects/</link>
+    <description>Recent content in Projects on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 27 Jan 2024 15:03:07 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 100 year old camera project</title>
+      <link>https://grainyphotos.com/projects/100-year-camera/</link>
+      <pubDate>Sat, 27 Jan 2024 15:02:15 +0100</pubDate>
+      <guid>https://grainyphotos.com/projects/100-year-camera/</guid>
+      <description>Using and taking photos with a 100 year old ICA Lloyd 510 camera.</description>
+    </item>
+  </channel>
+</rss>

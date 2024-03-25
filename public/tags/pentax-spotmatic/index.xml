@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pentax Spotmatic on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/pentax-spotmatic/</link>
+    <description>Recent content in Pentax Spotmatic on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 11 Nov 2023 11:14:15 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/pentax-spotmatic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genalgaucil</title>
+      <link>https://grainyphotos.com/posts/genalgaucil/</link>
+      <pubDate>Sat, 11 Nov 2023 11:14:15 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/genalgaucil/</guid>
+      <description>Genalguacil is a classic Andalusian white town with a difference - it is famous for its street art! A photo walk with 23 film photos taken with vintage cameras.</description>
+    </item>
+  </channel>
+</rss>

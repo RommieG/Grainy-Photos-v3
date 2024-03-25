@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Via Verde on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/via-verde/</link>
+    <description>Recent content in Via Verde on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Jan 2024 23:06:58 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/via-verde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Sunday stroll on the Via Verde</title>
+      <link>https://grainyphotos.com/posts/via-verde/</link>
+      <pubDate>Sat, 20 Jan 2024 23:06:58 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/via-verde/</guid>
+      <description>Ten photos taken on the Via Verde shot on Kodak Porta 160 film using a Mamiya RB67 camera during a Sunday afternoon stroll.</description>
+    </item>
+  </channel>
+</rss>

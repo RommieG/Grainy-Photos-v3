@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gear on Grainy Photos</title>
+    <link>https://grainyphotos.com/gear/</link>
+    <description>Recent content in Gear on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 27 Jan 2024 12:52:30 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/gear/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

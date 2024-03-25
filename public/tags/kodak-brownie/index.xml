@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kodak Brownie on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/kodak-brownie/</link>
+    <description>Recent content in Kodak Brownie on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 05 Feb 2024 22:46:22 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/kodak-brownie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kodak Six-20 Brownie E</title>
+      <link>https://grainyphotos.com/gear/cameras/kodak-brownie/</link>
+      <pubDate>Mon, 05 Feb 2024 22:46:22 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/cameras/kodak-brownie/</guid>
+      <description>The Kodak Six-20 Brownie E is a box-type camera from the 1940-50s. The styling is from the early Art Deco period with rounded corners typical of the Streamline Moderne period.</description>
+    </item>
+  </channel>
+</rss>

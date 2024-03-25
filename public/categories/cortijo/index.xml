@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortijo on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/cortijo/</link>
+    <description>Recent content in Cortijo on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 27 Jul 2020 13:40:52 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/cortijo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First film with the Zeiss Ikon Ikoflex IIa 855/16</title>
+      <link>https://grainyphotos.com/posts/zeiss-ikon-ikoflex-first-film/</link>
+      <pubDate>Mon, 27 Jul 2020 13:40:52 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/zeiss-ikon-ikoflex-first-film/</guid>
+      <description>Eleven photos of an old Cortijo (Spanish farmhouse) - the first roll of Ilford FP4 film through my Zeiss Ikon Ikoflex IIa.</description>
+    </item>
+  </channel>
+</rss>

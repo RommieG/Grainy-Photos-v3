@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/</link>
+    <description>Recent content in Categories on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 02 Mar 2024 11:45:37 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Places in Spain</title>
+      <link>https://grainyphotos.com/categories/places-in-spain/</link>
+      <pubDate>Sat, 02 Mar 2024 11:45:37 +0100</pubDate>
+      <guid>https://grainyphotos.com/categories/places-in-spain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experimental</title>
+      <link>https://grainyphotos.com/categories/experimental/</link>
+      <pubDate>Tue, 13 Feb 2024 23:42:20 +0100</pubDate>
+      <guid>https://grainyphotos.com/categories/experimental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White village</title>
+      <link>https://grainyphotos.com/categories/white-village/</link>
+      <pubDate>Mon, 22 Jan 2024 14:09:30 +0100</pubDate>
+      <guid>https://grainyphotos.com/categories/white-village/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Via Verde</title>
+      <link>https://grainyphotos.com/categories/via-verde/</link>
+      <pubDate>Sat, 20 Jan 2024 23:06:58 +0100</pubDate>
+      <guid>https://grainyphotos.com/categories/via-verde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cortijo</title>
+      <link>https://grainyphotos.com/categories/cortijo/</link>
+      <pubDate>Mon, 27 Jul 2020 13:40:52 +0100</pubDate>
+      <guid>https://grainyphotos.com/categories/cortijo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

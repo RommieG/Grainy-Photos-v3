@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://grainyphotos.com/sitemap.xml

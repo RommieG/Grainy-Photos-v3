@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenses on Grainy Photos</title>
+    <link>https://grainyphotos.com/gear/lenses/</link>
+    <description>Recent content in Lenses on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 27 Jan 2024 13:11:59 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/gear/lenses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super-Takumar 135mm lens</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-135mm/</link>
+      <pubDate>Tue, 06 Feb 2024 13:02:20 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-135mm/</guid>
+      <description>The Asahi Optical Co made the Super-Takumar 135mm f3.5 lens in the 60s and 70s for Pentax M42 screw mount cameras.</description>
+    </item>
+    <item>
+      <title>Super-Takumar 28mm f3.5 lens</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-28mm/</link>
+      <pubDate>Tue, 06 Feb 2024 13:01:50 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-28mm/</guid>
+      <description>The Asahi Optical Co made the Super-Takumar 28mm f3.5 lens between 1962 and 1975 for Pentax M42 screw mount cameras.</description>
+    </item>
+  </channel>
+</rss>

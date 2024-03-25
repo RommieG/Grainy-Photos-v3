@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikon FE2 on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/nikon-fe2/</link>
+    <description>Recent content in Nikon FE2 on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 18 Feb 2024 20:04:45 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/nikon-fe2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mogarraz</title>
+      <link>https://grainyphotos.com/posts/mogarraz/</link>
+      <pubDate>Sun, 18 Feb 2024 20:04:45 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/mogarraz/</guid>
+      <description>Twenty black-and-white film photos from Mogarraz taken with vintage cameras. Mogarraz is one of my favourite villages in Spain; it has history, is very picturesque, has a great location, and oozes charm.</description>
+    </item>
+  </channel>
+</rss>

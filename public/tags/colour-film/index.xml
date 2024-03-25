@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colour film on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/colour-film/</link>
+    <description>Recent content in Colour film on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 13 Feb 2024 23:42:20 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/colour-film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harman Phoenix 200 film - roll 3</title>
+      <link>https://grainyphotos.com/posts/harman-phoenix-roll-3/</link>
+      <pubDate>Tue, 13 Feb 2024 23:42:20 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/harman-phoenix-roll-3/</guid>
+      <description>All 36 photos from my third roll of Harman Phoenix 200 film, shot mostly on the coast near Motril. I think these are my best Phoenix 200 photos so far.</description>
+    </item>
+  </channel>
+</rss>

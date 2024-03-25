@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mamiya RB67 on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/mamiya-rb67/</link>
+    <description>Recent content in Mamiya RB67 on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 29 Feb 2024 23:31:44 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/mamiya-rb67/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mamiya RB67</title>
+      <link>https://grainyphotos.com/gear/cameras/mamiya-rb67/</link>
+      <pubDate>Thu, 29 Feb 2024 23:31:44 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/cameras/mamiya-rb67/</guid>
+      <description>About the Mamiya RB67, a legendary medium-format film camera that has gained immense popularity among professional photographers and enthusiasts since its introduction in 1970.</description>
+    </item>
+    <item>
+      <title>A Sunday stroll on the Via Verde</title>
+      <link>https://grainyphotos.com/posts/via-verde/</link>
+      <pubDate>Sat, 20 Jan 2024 23:06:58 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/via-verde/</guid>
+      <description>Ten photos taken on the Via Verde shot on Kodak Porta 160 film using a Mamiya RB67 camera during a Sunday afternoon stroll.</description>
+    </item>
+    <item>
+      <title>Citroen 2CV photos with the Mamiya RB67</title>
+      <link>https://grainyphotos.com/posts/citroen-2cv/</link>
+      <pubDate>Sun, 22 Aug 2021 18:29:26 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/citroen-2cv/</guid>
+      <description>I love classic cars and film cameras, so I jumped at the chance of photographing a Citroën 2CV with my Mamiya RB67 vintage film camera - see all the film photos.</description>
+    </item>
+  </channel>
+</rss>
