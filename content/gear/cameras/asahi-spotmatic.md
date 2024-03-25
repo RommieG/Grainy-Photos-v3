@@ -4,7 +4,7 @@ date: 2024-03-21T17:43:12+01:00
 canonicalURL: ""
 author: Rom Gostomski
 summary: 'Google description is called summary.'
-draft: true
+draft: false
 
 cover:
     image: images/spotmatic/spotmatic-cover.jpg
