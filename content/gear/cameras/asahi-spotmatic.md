@@ -50,7 +50,7 @@ For its time, the Spotmatic offered an impressive top shutter speed of 1/1000 se
 
 {{< assetimage "/images/spotmatic/asahi-spotmatic-2.jpg"
 "Shutter speed and film speed dial" 
-"A photo of the xxxx.">}}
+"A photo of the shutter speed and film speed dial on top of the camera.">}}
 
 ### M42 Lens Mount
 
