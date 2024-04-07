@@ -23,7 +23,7 @@ categories: ["Flowers"]
 cover:
     image: /posts/wild-garlic/images/wild-garlic-cover.jpg
     alt: 'A black-and-white film photo of '
-    caption: 'Image caption'
+    caption: ''
 
 ShowPostNavLinks: true
 ---
