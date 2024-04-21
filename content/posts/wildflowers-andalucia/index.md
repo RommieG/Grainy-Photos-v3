@@ -1,7 +1,7 @@
 ---
 title: 'Wildflowers in Andalucia'
 date: 2024-04-21T16:49:11+02:00
-canonicalURL: ""
+canonicalURL: "https://grainyphotos.com/posts/wildflowers-andalucia/"
 author: Rom Gostomski
 # ShowBreadCrumbs: true
 # Show ReadingTime: true
@@ -21,27 +21,18 @@ categories: ["Flowers"]
 
 cover:
     image: /posts/wildflowers-andalucia/images/wildflowers-andalucia-cover.jpg
-    alt: 'A colour film photo of tiny blue Andalucian wildflowers'
+    alt: 'A colour film photo of tiny blue Andalucian wildflowers.'
     caption: ''
 
 ShowPostNavLinks: true
 ---
-> Andalucia, Spain, boasts a diverse range of wildflowers and this year, the flowers have been exceptional. See fifteen colour film photos of wildflowers in Andalucia...
+> Andalucia, Spain, boasts a diverse range of wildflowers due to its varied landscapes, including mountains, plains, and coastal areas. The spring wildflower display has been poor in the past few years due to hot and dry conditions. However, the moon and stars must have aligned this year, and the spring wildflower display in Andalicia is stunning and prolific.
 
-Andalucia, Spain, boasts a diverse range of wildflowers due to its varied landscapes, including mountains, plains, and coastal areas. In the past two or so years, the spring wildflower display has been poor due to hot and dry conditions. However, the moon and stars must have aligned this year, and the spring wildflower display in Andalicia is stunning and prolific.
+Some common wildflowers in Andalucia include Spanish lavender, broom, rockrose, oleander, marigold, iris, bluebell, field poppy, and hundreds, probably thousands more.
 
-Some common wildflowers found in Andalucia include:
+I like nothing more than wandering around and taking photos of these wonderful flowers. So, let's cut to the chase and look at the photos. However, please be aware: I am not a botanist, and my flower identification skills are hopeless. I do not want to misinform by incorrectly identifying plants, so I posted most photos without identification.
 
-- **Spanish lavender** (Lavandula stoechas): Known for its vibrant purple flowers and aromatic fragrance, Spanish lavender is often found in rocky areas and scrublands.
-- **Spanish broom** (Spartium junceum): This yellow-flowered shrub is prevalent in the region, particularly in dry and sunny locations such as hillsides and roadsides.
-- **Rockrose** (Cistus spp.): Various species of rockrose, with their delicate, papery flowers, thrive in Andalucia's Mediterranean climate, adding splashes of pink and white to the landscape.
-- **Oleander** (Nerium oleander): Although not native to Andalucia, oleander is commonly planted for its showy flowers and evergreen foliage, often found along roadsides and in gardens.
-- **Spanish marigold** (Tagetes erecta): With its bright orange or yellow flowers, the Spanish marigold is a common sight in gardens and open areas throughout Andalucia.
-- **Spanish iris** (Iris xiphium): This native iris species produces striking blue-violet flowers and is often found in meadows and grasslands.
-- **Spanish bluebell** (Hyacinthoides hispanica): Similar to the English bluebell but with larger, more open flowers, the Spanish bluebell carpets woodland areas with its nodding, bell-shaped blooms.
-- **Field poppy** (Papaver rhoeas): These vibrant red poppies are often seen in fields and disturbed areas, adding a splash of colour to the countryside.
-
-I am not a botanist, and my flower identification skills are hopeless. I do not want to misinform by incorrectly identifying plants, so I have posted most of the photos without identification. One thing that is indisputable is that the flowers are beautiful.
+One indisputable thing is that the flowers are beautiful. I hope you enjoy the photos as much as I enjoyed taking them.
 
 ## Wildflower photos
 
@@ -109,7 +100,9 @@ I am not a botanist, and my flower identification skills are hopeless. I do not 
 
 ## Almonds
 
-Although almond blossom is not technically a wildflower, it is beautiful, flowering in late January and February. The almond blossoms have long gone, but plentiful green almonds have replaced them. These will turn brown, and the outer hull (exocarp) will split, revealing the inner shell (endocarp) with the seed we are familiar with. A couple of bonus photos:
+Although almond blossom is not technically a wildflower, it is beautiful and flowers in late January and February. The almond blossoms have long gone, but plentiful green almonds have replaced them. These will turn brown, and the outer hull (exocarp) will split, revealing the inner shell (endocarp) with the seed we are familiar with. 
+
+Here are a couple of bonus photos of green almonds:
 
 {{< postimgexif "images/andalucia-wildflowers-7.jpg" 
 "Green almond" 
