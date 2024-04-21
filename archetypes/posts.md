@@ -17,7 +17,7 @@ tags: []
 # "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
 
 categories: []
-# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
+# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village" "Flowers"
 
 cover:
     image: /posts/post-folder/images/cover.jpg
