@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: true
 tocopen: true
 summary: 'A spectacular walk high above Soportújar with stunning views. See 15 film photos shot with a Nikon FE2 from the walk, including the impressive 30 m waterfall on the Chico River.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
-draft: true
+draft: false
 
 tags: ["Nikon FE2", "Ilford Delta"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
