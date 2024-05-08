@@ -28,6 +28,8 @@ ShowPostNavLinks: true
 ---
 > Soportújar, a small white village in the Alpujarra region of Spain, halfway between Órgiva and Pampaneira, is often referred to as the "Village of Witches" due to its reputation for paranormal activity and ghostly sightings.
 
+I went to explore with my Nikon FE2 film camera. But first...
+
 ## A brief history
 
 Legend has it that in the Middle Ages, Soportújar was inhabited by witches who performed spells and rituals in the nearby mountains. These witches were experts in manufacturing ointments and magical potions and met secretly to celebrate their nocturnal rituals.
