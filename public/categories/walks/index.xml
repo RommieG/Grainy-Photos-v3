@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walks on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/walks/</link>
+    <description>Recent content in Walks on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 02 May 2024 22:06:41 +0200</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/walks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A stroll above Soportújar (Dam 24)</title>
+      <link>https://grainyphotos.com/posts/soportujar-trek/</link>
+      <pubDate>Thu, 02 May 2024 22:06:41 +0200</pubDate>
+      <guid>https://grainyphotos.com/posts/soportujar-trek/</guid>
+      <description>A spectacular walk high above Soportújar with stunning views. See 15 film photos shot with a Nikon FE2 from the walk, including the impressive 30 m waterfall on the Chico River.</description>
+    </item>
+  </channel>
+</rss>

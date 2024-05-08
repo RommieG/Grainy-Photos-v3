@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takumar on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/takumar/</link>
+    <description>Recent content in Takumar on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 23 Mar 2024 14:05:44 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/takumar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super-Multi-Coated Macro Takumar 50mm f4</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-50mm-macro/</link>
+      <pubDate>Sat, 23 Mar 2024 14:05:44 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-50mm-macro/</guid>
+      <description>The Super-Takumar Super-Multi-Coated Macro Takumar 50mm f4 lens is a metal body macro lens capable of 1:2 macro reproduction.</description>
+    </item>
+    <item>
+      <title>Super-Takumar 35mm f2 (Model II)</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-35mm/</link>
+      <pubDate>Sat, 23 Mar 2024 13:36:34 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-35mm/</guid>
+      <description>The Super-Takumar 35mm f/2 lens has great optical performance, build quality and character. My go-to lens for the Pentax Spotmatic camera.</description>
+    </item>
+    <item>
+      <title>Super-Takumar 135mm f3.5</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-135mm/</link>
+      <pubDate>Tue, 06 Feb 2024 13:02:20 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-135mm/</guid>
+      <description>Many consider the 135mm f3.5 Takumar lens made by the Asahi Optical Company to be one of the best vintage telephoto lenses available.</description>
+    </item>
+    <item>
+      <title>Super-Takumar 28mm f3.5</title>
+      <link>https://grainyphotos.com/gear/lenses/takumar-28mm/</link>
+      <pubDate>Tue, 06 Feb 2024 13:01:50 +0100</pubDate>
+      <guid>https://grainyphotos.com/gear/lenses/takumar-28mm/</guid>
+      <description>The Asahi Optical Co made the Super-Takumar 28mm f3.5 wide lens between 1962 and 1975 for Pentax M42 screw mount cameras.</description>
+    </item>
+  </channel>
+</rss>

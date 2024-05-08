@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kodak Gold on Grainy Photos</title>
+    <link>https://grainyphotos.com/tags/kodak-gold/</link>
+    <description>Recent content in Kodak Gold on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 21 Apr 2024 16:49:11 +0200</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/tags/kodak-gold/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wildflowers in Andalucia</title>
+      <link>https://grainyphotos.com/posts/wildflowers-andalucia/</link>
+      <pubDate>Sun, 21 Apr 2024 16:49:11 +0200</pubDate>
+      <guid>https://grainyphotos.com/posts/wildflowers-andalucia/</guid>
+      <description>Andalucia, Spain, boasts a diverse range of wildflowers and this year, the flowers have been exceptional because of the rain several weeks ago. See fifteen colour film photos of wildflowers in Andalucia&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

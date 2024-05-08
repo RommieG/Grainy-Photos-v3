@@ -10,7 +10,7 @@ tocopen: true
 summary: 'A spectacular walk high above Soportújar with stunning views. See 15 film photos shot with a Nikon FE2 from the walk, including the impressive 30 m waterfall on the Chico River.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
 draft: false
 
-tags: ["Nikon FE2", "Ilford Delta"]
+tags: ["Nikon FE2", "Ilford Delta", "B&W film"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
 # "B&W film" "Colour film" "B&W digital" "Colour digital"
 # "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
@@ -28,7 +28,7 @@ ShowPostNavLinks: true
 ---
 > A spectacular walk high above Soportújar with stunning views. The walk's highlight was the 30 m waterfall on the Chico River.
 
-In April, I spent a day in and around Soportújar, a municipality in the Alpujarra region of the province of Granada, in the Sierra Nevada Natural Park, Spain. I split the day into two: half a day for a walk above Soportújar and the rest to explore the village of Soportújar itself. This post is about the walk.
+In April, I spent a day in and around Soportújar, a municipality in the Alpujarra region of the province of Granada, in the Sierra Nevada Natural Park, Spain. I split the day into two: half a day for a walk above Soportújar and the rest to [explore the village of Soportújar](https://grainyphotos.com/posts/soportujar/) itself. This post is about the walk.
 
 ## Walk statistics
 
@@ -40,7 +40,7 @@ Difficulty: Moderate.
 
 I took all but one of the photos on this page using a Nikon FE2 camera with Nikkor 35-105 zoom. 
 
-Film: Ilford Delta 100
+Film: Ilford Delta 100  
 Developer: Spur Acurol-N 1+70 @20C for 8.5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
