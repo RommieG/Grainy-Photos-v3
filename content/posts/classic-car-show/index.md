@@ -32,7 +32,7 @@ But I digress. Since I moved to Spain, I have not been to a Clñassic Car Show o
 
 Being in Spain, it was hardly surprising that the predominant cars were Seats, although there were other cars, motorbikes, scooters and a tractor.
 
-Enough talk, let's look at the photos I took... 
+Enough talk, let's look at the photos I took.
 
 ## Film Photos
 
