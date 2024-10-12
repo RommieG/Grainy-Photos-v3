@@ -8,7 +8,7 @@ author: Rom Gostomski
 ShowToc: true
 tocopen: true
 summary: 'Photos from the Classic Car Show in Martos, October 2024. The photos were shot on Kentnere 100 film using a vintage Zeis Ikon Ikoflex camera.' # 
-draft: true
+draft: false
 
 tags: ["Zeis Ikon Ikoflex", "B&W film", "Kentmere"]
 # "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
