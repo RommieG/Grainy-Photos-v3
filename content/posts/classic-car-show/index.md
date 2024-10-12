@@ -26,13 +26,13 @@ cover:
 
 ShowPostNavLinks: true
 ---
-I have liked old classic cars for as long as I can remember. My first car was a Morris Minor, and I have had a soft spot for them ever since. Before moving to Spain in 2017, I had three Morris Minors in the UK: a saloon, a van and a convertible. The saloon was pretty standard. I upgraded the van to a 1300CC engine, 5-speed gearbox, disc brakes, an uprated rear differential, and comfortable seats... You get the picture. It generally kept up with modern traffic and was easy and comfortable to drive. The convertible was another matter. That was bonkers - a Fiat 2-litre twin cam engine, a Fiat 5-speed gearbox, a Toyota Celica limited-slip differential, uprated brakes... and I took out the rear seat to fit a wall of speakers. So it was a two-seater. That could sure go... a wolf in sheep's clothing. Unfortunately, it wasn't practical to take them to Spain, so I had to sell them 😢
+I have liked old classic cars for as long as I can remember. My first car was a Morris Minor, and I have had a soft spot for them ever since. Before moving to Spain in 2017, I had three Morris Minors in the UK: a saloon, a van and a convertible. The saloon was pretty standard. I upgraded the van to a 1300CC engine, 5-speed gearbox, disc brakes, an uprated rear differential, and comfortable seats... You get the picture. It generally kept up with modern traffic and was easy and comfortable to drive. The convertible was another matter. That was bonkers - a Fiat 2-litre twin cam engine, a Fiat 5-speed gearbox, a Toyota Celica limited-slip differential, uprated brakes... and I took out the rear seat to fit a wall of speakers. So it effectively was a two-seater... that could sure go... a wolf in sheep's clothing. Unfortunately, it wasn't practical to take them to Spain, so I had to sell them 😢
 
-But I digress. Since I moved to Spain, I have not been to a Clñassic Car Show or had any involvement with classic cars. I was delighted when I heard that there was a Classic Car Show not too far away. So off I went, armed with my Zeiss Ikon Ikoflex IIa 855/16 camera and Nikon Zf.
+But I digress. Since I moved to Spain, I have not been to a Clñassic Car Show or had any involvement with classic cars. I was delighted when I heard that there was a Classic Car Show not too far away. So off I went, armed with my Zeiss Ikon Ikoflex IIa 855/16 camera and Nikon Zf. I thought the Ikoflex was appropriate - a vintage camera and classic cars.
 
 Being in Spain, it was hardly surprising that the predominant cars were Seats, although there were other cars, motorbikes, scooters and a tractor.
 
-Enough talk, let's look at the photos I took.
+But, enough talk, let's look at the photos I took.
 
 ## Film Photos
 
@@ -79,7 +79,7 @@ Enough talk, let's look at the photos I took.
 "Black-and-white film photo of the front of a Mini. The car has a white stripe along the bonnet." >}}
 
 {{< postimgexifgps "images/classic-car-11.jpg" 
-"In photography timing is everything! What are you looking at? It was OK, I know this couple - she was surprised to see me there with a vintage TLR camera." 
+"In photography timing is everything! I'm getting the what do you think you are doing look from the lady. It was OK though, I know this couple - she was surprised to see me there with a vintage TLR camera." 
 "Black-and-white film photo of a man and woman next to an American car. The lady has a startled expression." >}}
 
 {{< postimgexifgps "images/classic-car-12.jpg" 
