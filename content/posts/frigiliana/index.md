@@ -139,4 +139,4 @@ I took all the photos on this page using a Mamiya 645M 1000S camera with Ilford 
 "Steep stone steps leading up to an old wooden front door." 
 "A black-and-white photo of steep stone steps leading up to an old wooden front door. Potted plants on both sides." >}}
 
-
+{{< catlinkWhiteVillages >}}
