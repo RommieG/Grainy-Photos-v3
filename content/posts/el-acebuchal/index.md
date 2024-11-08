@@ -39,7 +39,7 @@ The photos were digitised using a Nikon Zf mirrorless digital camera with a Toki
 
 Film roll No 435
 
-## The film photos
+## The photos
 
 **Click on any photo to see a larger version.**
 
