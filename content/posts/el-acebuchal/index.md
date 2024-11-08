@@ -29,6 +29,62 @@ ShowPostNavLinks: true
 
 > El Acebuchal, often referred to as "The Lost Village" of the Serranía de Ronda in southern Spain, is a fascinating and somewhat mystical place with a unique history. It is a former mountain village nestled in the rugged hills of the Axarquía region, part of the natural park of Sierra de Tejeda, Almijara, and Alhama. It is located close to the more well-known village of [Frigiliana](https://grainyphotos.com/posts/frigiliana/), which is a picturesque whitewashed town that attracts many tourists to the region.
 
+I have been out with my film camera again! And what a place this was!
+
+## Film photo details
+
+I took all the photos below using a Mamiya 645 1000S camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
+
+The photos were digitised using a Nikon Zf mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens. The first two images were converted to positive and edited using Capture One software, the remainder using DXO PhotoLab 8. 
+
+Film roll No 435
+
+## The film photos
+
+**Click on any photo to see a larger version.**
+
+{{< postimgexifgps "images/el-acebuchal-01.jpg" 
+"El Acebuchal nestling on the side of the valley" 
+"A black-and-white film photo of El Acebuchal nestling on the side of the valley" >}}
+
+{{< postimgexifgps "images/el-acebuchal-02.jpg" 
+"Approaching El Acebuchal on the road from Frigiliana" 
+"A black-and-white film photo of El Acebuchal approaching from Frigiliana" >}}
+
+{{< postimgexifgps "images/el-acebuchal-03.jpg" 
+"The main road through El Acebuchal" 
+"A black-and-white film photo of the main road through El Acebuchal" >}}
+
+{{< postimgexifgps "images/el-acebuchal-04.jpg" 
+"White houses in the village" 
+"A black-and-white film photo of white houses in El Acebuchal" >}}
+
+{{< postimgexifgps "images/el-acebuchal-05.jpg" 
+"" 
+"A black-and-white film photo of white houses in El Acebuchal" >}}
+
+{{< postimgexifgps "images/el-acebuchal-06.jpg" 
+"A cobbled street in El Acebuchal" 
+"A black-and-white film photo of a cobbled street through El Acebuchal" >}}
+
+{{< postimgexifgps "images/el-acebuchal-07.jpg" 
+"There is a tapas bar and a restaurant in the village; this is the tapas bar" 
+"A black-and-white film photo of a tapas bar in the village" >}}
+
+{{< postimgexifgps "images/el-acebuchal-08.jpg" 
+"The village is on the side of a valley and some of the streets are quite steep" 
+"A black-and-white film photo of steps between the streets in the village" >}}
+
+{{< postimgexifgps "images/el-acebuchal-09.jpg" 
+"" 
+"A black-and-white film photo of a cobbled street in the village" >}}
+
+{{< postimgexifgps "images/el-acebuchal-10.jpg" 
+"" 
+"A black-and-white film photo of a cobbled street in the village" >}}
+
+I like to find out about the places I visit, and this place was a gem. The following is a summary of what I discovered:
+
 ## History
 El Acebuchal was founded centuries ago, possibly in the late 16th century. The village’s name comes from the word "acebuche," meaning wild olive, which grows in the area. It is believed to have originated as a small, self-sufficient community of farmers and shepherds who lived in the remote mountain region. It also became a stop-off point for mule drivers on their way from Malaga across the mountains to Granada. 
 
@@ -49,59 +105,10 @@ It is home to a small number of residents, but The village is also known for its
 ## Visiting El Acebuchal
 El Acebuchal is in a relatively secluded spot, and reaching it involves a drive through narrow, winding mountain roads. The best access road is from Frigiliana, although the last part is a dirt track. It offers a glimpse into a bygone era and is an intriguing stop for anyone interested in history, restoration, and the beauty of rural Andalucia.
 
-{{< postimgexifgps "images/el-acebuchal-02.jpg" 
-"Approaching El Acebuchal on the road from Frigiliana" 
-"A black-and-white film photo of El Acebuchal approaching from Frigiliana" >}}
-
 The Restaurante El Acebuchal is very popular and it is recommended to book in advance (I had to wait twenty minuites for a table). The restaurant serves excellent traditional cooking using local produce, home made deserts and home made bread.
 
 While El Acebuchal is not as heavily developed as other tourist destinations, a high proportion of the restored houses are holiday cottages available for rent. Visitors can enjoy hiking in the surrounding hills and the village’s simple but charming atmosphere. 
 
-**Click on any photo to see a larger version.**
-
-{{< postimgexifgps "images/el-acebuchal-01.jpg" 
-"El Acebuchal nestling on the side of the valley" 
-"A black-and-white film photo of El Acebuchal nestling on the side of the valley" >}}
-
-{{< postimgexifgps "images/el-acebuchal-03.jpg" 
-"The main road through El Acebuchal" 
-"A black-and-white film photo of the main road through El Acebuchal" >}}
-
-{{< postimgexifgps "images/el-acebuchal-04.jpg" 
-"" 
-"A black-and-white film photo of white houses in El Acebuchal" >}}
-
-{{< postimgexifgps "images/el-acebuchal-05.jpg" 
-"" 
-"A black-and-white film photo of white houses in El Acebuchal" >}}
-
-{{< postimgexifgps "images/el-acebuchal-06.jpg" 
-"A cobbled street through El Acebuchal" 
-"A black-and-white film photo of a cobbled street through El Acebuchal" >}}
-
-{{< postimgexifgps "images/el-acebuchal-07.jpg" 
-"As well as the restaurant, there is a tapas bar in the village" 
-"A black-and-white film photo of a tapas bar in the village" >}}
-
-{{< postimgexifgps "images/el-acebuchal-08.jpg" 
-"The village is on the side of a valley and some of the streets are quite steep" 
-"A black-and-white film photo of steps between the streets in the village" >}}
-
-{{< postimgexifgps "images/el-acebuchal-09.jpg" 
-"" 
-"A black-and-white film photo of a cobbled street in the village" >}}
-
-{{< postimgexifgps "images/el-acebuchal-10.jpg" 
-"" 
-"A black-and-white film photo of a cobbled street in the village" >}}
-
-## Film photo details
-
-I took all the photos on this page using a Mamiya 645 1000S camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
-
-The photos were digitised using a Nikon Zf mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens. The first two images were converted to positive and edited using Capture One software, the remainder using DXO PhotoLab 8. 
-
-Film roll No 435
-
+### Similar posts
 - {{< catlinkWhiteVillages >}}
 - {{< catlinkPlacesinSpain >}}
