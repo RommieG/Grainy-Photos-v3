@@ -11,13 +11,8 @@ summary: 'Find out about Ronda in Spain, known for its stunning scenery, rich hi
 draft: false
 
 tags: ["Zeis Ikon Ikoflex", "B&W film", "Kentmere"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-# "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
-# "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
 
-categories: ["Places in Spain"]
-# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
+categories: ["Places in Spain", "Andalucia"]
 
 cover:
     image: /posts/ronda/images/cover.jpg

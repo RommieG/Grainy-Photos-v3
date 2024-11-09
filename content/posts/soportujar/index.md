@@ -11,13 +11,8 @@ summary: 'Soportújar, often called the "Village of Witches, is a small white vi
 draft: false
 
 tags: ["Nikon FE2", "B&W film", "Ilford Delta"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-# "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
-# "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
 
-categories: ["Places in Spain", "White village"]
-# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village" "Flowers"
+categories: ["Places in Spain", "White village", "Andalucia"]
 
 cover:
     image: /posts/soportujar/images/cover.jpg

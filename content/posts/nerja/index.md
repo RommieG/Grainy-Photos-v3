@@ -14,10 +14,9 @@ imaging:
     includeFields: .*
 
 tags: ["Mamiya M645", "B&W film", "Ilford FP4"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: ["Places in Spain", "White village"]
-# "Places in Spain" "Culture" "Walks" "Architecture"
+
+categories: ["Places in Spain", "White village", "Andalucia"]
+
 ---
 > *Nerja is a picturesque coastal resort town approximately 50 kilometres east of Málaga, Spain. Once a sleepy fishing village, the town is now a bustling holiday resort with sandy beaches and cliff side coves.*
 ## Attractions in and around Nerja

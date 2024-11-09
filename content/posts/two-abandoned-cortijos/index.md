@@ -10,14 +10,9 @@ tocopen: true
 summary: 'Twenty-three photos of two abandoned cortijos taken with a vintage Pentax Spotmatic film camera during a morning walk.' # The summary appears as the Google description and also on the posts list page. If you also want it to appear on the page, use description instead of summary.
 draft: false
 
-tags: []
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-# "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
-# "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
+tags: ["Pentax Spotmatic", "Pentax Spotmatic", "Ilford Delta"]
 
-categories: []
-# "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
+categories: ["Architecture", "Andalucia"]
 
 cover:
     image: /posts/two-abandoned-cortijos/images/cover.jpg

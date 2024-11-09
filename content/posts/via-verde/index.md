@@ -16,10 +16,9 @@ ShowToc: false
 tocopen: true
 
 tags: ["Mamiya RB67", "Kodak Porta"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: ["Via Verde"]
-# "Places in Spain" "Culture" "Walks" "Architecture"
+
+categories: ["Via Verde", "Andalucia"]
+
 
 ShowPostNavLinks: true
 ---

@@ -16,10 +16,8 @@ ShowToc: false
 tocopen: true
 
 tags: ["Mamiya M645", "B&W film", "Ilford FP4"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-categories: ["Places in Spain", "White village"]
-# "Places in Spain" "Culture" "Walks" "Architecture"
+
+categories: ["Places in Spain", "White village", "Andalucia"]
 
 ShowPostNavLinks: true
 ---
