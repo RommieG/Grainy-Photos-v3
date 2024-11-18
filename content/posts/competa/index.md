@@ -1,5 +1,5 @@
 ---
-title: 'Competa'
+title: 'Cómpeta'
 date: 2024-11-09T11:43:13+01:00
 canonicalURL: "https://grainyphotos.com/posts/competa/"
 author: Rom Gostomski
