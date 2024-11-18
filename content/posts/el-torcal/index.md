@@ -7,7 +7,7 @@ author: Rom Gostomski
 # Show ReadingTime: true
 ShowToc: false
 tocopen: true
-summary: 'xx'
+summary: 'Fifteen photos from El Torcal de Antequera, an area of outstanding natural beauty and arguably the best examples of karst limestone formation in Europe.'
 draft: false
 
 tags: ["Mamiya M645", "B&W film", "Ilford HP5", “Andalucia”]
