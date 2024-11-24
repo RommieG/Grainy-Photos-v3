@@ -15,7 +15,7 @@ tags: ["Nikon FE2", "B&W film", "Ilford Delta"]
 categories: ["Places in Spain", "Palencia" ]
 
 cover:
-    image: /posts/verdena/images/cover1.jpg
+    image: /posts/verdena/images/cover.jpg
     alt: 'A black-and-white film photo of on old stone house with a tinao in the village of Verdeña, Palencia, Spain'
     caption: ''
 

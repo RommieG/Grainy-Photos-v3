@@ -15,7 +15,7 @@ tags: ["Nikon FE2", "B&W film", "Ilford Delta"]
 categories: ["Places in Spain", "Palencia"]
 
 cover:
-    image: /posts/alba-de-los-cardanos/images/cover.jpg
+    image: /posts/alba-de-los-cardanos/images/cover1.jpg
     alt: 'A black-and-white film photo of Alba de los Cardaños by the reservoir'
     caption: ''
 
