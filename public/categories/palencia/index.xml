@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palencia on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/palencia/</link>
+    <description>Recent content in Palencia on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 23 Nov 2024 16:38:03 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/palencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verdeña and the El Bosque Fósil walk</title>
+      <link>https://grainyphotos.com/posts/verdena/</link>
+      <pubDate>Sat, 23 Nov 2024 16:38:03 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/verdena/</guid>
+      <description>A photoblog about Verdeña, a village in the Montaña Palentina region, 15 km from Cervera de Pisuerga. Known for the nearby El Bosque Fósil walk, Verdeña stands at an altitude of about 1239 m.</description>
+    </item>
+    <item>
+      <title>Alba de los Cardaños</title>
+      <link>https://grainyphotos.com/posts/alba-de-los-cardanos/</link>
+      <pubDate>Sat, 23 Nov 2024 10:56:22 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/alba-de-los-cardanos/</guid>
+      <description>Photoblog about Alba de los Cardaños in Palencia, Spain. A rustic village in a scenic mountain landscape with great environmental value.</description>
+    </item>
+  </channel>
+</rss>

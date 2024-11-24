@@ -11,27 +11,62 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 03 May 2024 12:24:59 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 16:38:03 +0100</lastBuildDate>
     <atom:link href="https://grainyphotos.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B&amp;W film</title>
       <link>https://grainyphotos.com/tags/bw-film/</link>
-      <pubDate>Fri, 03 May 2024 12:24:59 +0200</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:38:03 +0100</pubDate>
       <guid>https://grainyphotos.com/tags/bw-film/</guid>
       <description></description>
     </item>
     <item>
       <title>Ilford Delta</title>
       <link>https://grainyphotos.com/tags/ilford-delta/</link>
-      <pubDate>Fri, 03 May 2024 12:24:59 +0200</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:38:03 +0100</pubDate>
       <guid>https://grainyphotos.com/tags/ilford-delta/</guid>
       <description></description>
     </item>
     <item>
       <title>Nikon FE2</title>
       <link>https://grainyphotos.com/tags/nikon-fe2/</link>
-      <pubDate>Fri, 03 May 2024 12:24:59 +0200</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:38:03 +0100</pubDate>
       <guid>https://grainyphotos.com/tags/nikon-fe2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Andalucia”</title>
+      <link>https://grainyphotos.com/tags/andalucia/</link>
+      <pubDate>Mon, 18 Nov 2024 13:43:32 +0100</pubDate>
+      <guid>https://grainyphotos.com/tags/andalucia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ilford HP5</title>
+      <link>https://grainyphotos.com/tags/ilford-hp5/</link>
+      <pubDate>Mon, 18 Nov 2024 13:43:32 +0100</pubDate>
+      <guid>https://grainyphotos.com/tags/ilford-hp5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mamiya M645</title>
+      <link>https://grainyphotos.com/tags/mamiya-m645/</link>
+      <pubDate>Mon, 18 Nov 2024 13:43:32 +0100</pubDate>
+      <guid>https://grainyphotos.com/tags/mamiya-m645/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kentmere</title>
+      <link>https://grainyphotos.com/tags/kentmere/</link>
+      <pubDate>Sat, 09 Nov 2024 11:43:13 +0100</pubDate>
+      <guid>https://grainyphotos.com/tags/kentmere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zeis Ikon Ikoflex</title>
+      <link>https://grainyphotos.com/tags/zeis-ikon-ikoflex/</link>
+      <pubDate>Sat, 12 Oct 2024 16:11:02 +0200</pubDate>
+      <guid>https://grainyphotos.com/tags/zeis-ikon-ikoflex/</guid>
       <description></description>
     </item>
     <item>
@@ -77,13 +112,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mamiya M645</title>
-      <link>https://grainyphotos.com/tags/mamiya-m645/</link>
-      <pubDate>Thu, 04 Apr 2024 13:32:21 +0200</pubDate>
-      <guid>https://grainyphotos.com/tags/mamiya-m645/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>lens</title>
       <link>https://grainyphotos.com/tags/lens/</link>
       <pubDate>Sat, 23 Mar 2024 14:05:44 +0100</pubDate>
@@ -105,17 +133,10 @@
       <description></description>
     </item>
     <item>
-      <title>Kentmere</title>
-      <link>https://grainyphotos.com/tags/kentmere/</link>
-      <pubDate>Sun, 25 Feb 2024 15:24:38 +0100</pubDate>
-      <guid>https://grainyphotos.com/tags/kentmere/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zeis Ikon Ikoflex</title>
-      <link>https://grainyphotos.com/tags/zeis-ikon-ikoflex/</link>
-      <pubDate>Sun, 25 Feb 2024 15:24:38 +0100</pubDate>
-      <guid>https://grainyphotos.com/tags/zeis-ikon-ikoflex/</guid>
+      <title>Pentax Spotmatic</title>
+      <link>https://grainyphotos.com/tags/pentax-spotmatic/</link>
+      <pubDate>Wed, 14 Feb 2024 19:16:31 +0100</pubDate>
+      <guid>https://grainyphotos.com/tags/pentax-spotmatic/</guid>
       <description></description>
     </item>
     <item>
@@ -137,13 +158,6 @@
       <link>https://grainyphotos.com/tags/kodak-porta/</link>
       <pubDate>Sat, 20 Jan 2024 23:06:58 +0100</pubDate>
       <guid>https://grainyphotos.com/tags/kodak-porta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pentax Spotmatic</title>
-      <link>https://grainyphotos.com/tags/pentax-spotmatic/</link>
-      <pubDate>Sat, 11 Nov 2023 11:14:15 +0100</pubDate>
-      <guid>https://grainyphotos.com/tags/pentax-spotmatic/</guid>
       <description></description>
     </item>
   </channel>

@@ -55,10 +55,6 @@ The parish church of San Miguel is an excellent example of the transition from R
 
 El Bosque Fósil de Verdeña (The Fossil Forest of Verdeña) is a remarkable paleontological site located near the village of Verdeña. This unique fossil forest together with the hiking trail offers a fascinating blend of natural history, geology, and scenic beauty.
 
-{{< postimgexifgps "images/verdena-01.jpg" 
-"The Bosque Fósil trail through the forest" 
-"A black-and-white photo of the Bosque Fósil trail through the forest" >}}
-
 The Fossil Forest is a notable geological site that showcases fossilized remains of an ancient forest. Visitors can witness petrified trunks and remnants of colossal trees that once constituted a prehistoric tropical ecosystem. The fossils date back to the Carboniferous period, approximately 300 million years ago, during which much of the present-day European continent was submerged under dense, swampy forests. Over time, the plant matter was subjected to layers of sediment, leading to fossilization through the application of high pressure and mineralization.
 
 {{< postimgexifgps "images/verdena-03.jpg" 
@@ -72,6 +68,10 @@ A popular activity for visitors is the hiking route that leads to the Fossil For
 The walk is clearly signposted, beginning and finishing in the village of Verdeña. The route is approximately 3-4 kilometres (1-2 hours), making it an accessible and family-friendly hike. 
 
 Starting from the car park at the entrance to the village, walk past the church and follow the signposted path out of the village. After a long ascent through an oak forest with many old trees, you reach a pit with a cliff face where you can see imprints of the fossilised trees.
+
+{{< postimgexifgps "images/verdena-01.jpg" 
+"The Bosque Fósil trail through the forest" 
+"A black-and-white photo of the Bosque Fósil trail through the forest" >}}
 
 The trail then continues, winding through picturesque forests and countryside of the Montaña Palentina, offering views of rolling hills, forests, and meadows, finally returning to Verdeña.
 

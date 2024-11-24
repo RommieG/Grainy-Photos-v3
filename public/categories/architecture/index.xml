@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Grainy Photos</title>
+    <link>https://grainyphotos.com/categories/architecture/</link>
+    <description>Recent content in Architecture on Grainy Photos</description>
+    <image>
+      <title>Grainy Photos</title>
+      <url>https://grainyphotos.com/img/home/featured.png</url>
+      <link>https://grainyphotos.com/img/home/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 14 Feb 2024 19:16:31 +0100</lastBuildDate>
+    <atom:link href="https://grainyphotos.com/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Abandoned Cortijos</title>
+      <link>https://grainyphotos.com/posts/two-abandoned-cortijos/</link>
+      <pubDate>Wed, 14 Feb 2024 19:16:31 +0100</pubDate>
+      <guid>https://grainyphotos.com/posts/two-abandoned-cortijos/</guid>
+      <description>Twenty-three photos of two abandoned cortijos taken with a vintage Pentax Spotmatic film camera during a morning walk.</description>
+    </item>
+  </channel>
+</rss>
