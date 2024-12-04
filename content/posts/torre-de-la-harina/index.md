@@ -100,6 +100,6 @@ Film roll No's 227
 
 {{< catlinkPlacesinSpain >}}
 
-### Publication date
+### Updates
 
-This post was originally published 27 January 2022, updated 4 December 2024.
+This post was originally published on 27 January 2022, updated 4 December 2024.
