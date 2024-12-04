@@ -52,3 +52,7 @@ Film roll No's ...
 {{< catlinkWhiteVillages >}}
 {{< catlinkViaVerde >}}
 {{< catlinkPlacesinSpain >}}
+
+#### Publication date
+
+This post was originally published on xxxxxxxx, updated yyyyyy
