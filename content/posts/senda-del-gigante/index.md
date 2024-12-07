@@ -113,6 +113,6 @@ It is said that the silhouette of the giant can still be seen from certain viewp
 
 {{< catlinkWhiteVillages >}}
 
-### Publication date
+### Updates
 
 This post was originally published on 17 September 2022, updated 4 December 2024.
