@@ -196,8 +196,8 @@ Jubrique is located in the Genal Valley, an area of outstanding beauty with hill
 
 ## Similar posts
 
-{{< catlinkWhiteVillages >}}
-{{< catlinkPlacesinSpain >}}
+- {{< catlinkWhiteVillages >}}
+- {{< catlinkPlacesinSpain >}}
 
 ## Publication date
 
