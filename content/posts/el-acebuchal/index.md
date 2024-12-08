@@ -11,12 +11,8 @@ summary: 'Everything you need to know about El Acebuchal. The photographs were s
 draft: false
 
 tags: ["Mamiya M645", "B&W film", "Kentmere"]
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pentax Spotmatic" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Zeiss Super Ikonta"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
-# "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
-# "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
 
-categories: ["Places in Spain", "White village"]
+categories: ["Places in Spain", "White village", "Andalucia"]
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village" "Flowers"
 
 cover:

@@ -10,9 +10,9 @@ tocopen: true
 summary: 'Fifteen photos from El Torcal de Antequera, an area of outstanding natural beauty and arguably the best examples of karst limestone formation in Europe.'
 draft: false
 
-tags: ["Mamiya M645", "B&W film", "Ilford HP5", “Andalucia”]
+tags: ["Mamiya M645", "B&W film", "Ilford HP5"]
 
-categories: ["Places in Spain", "Walks"]
+categories: ["Places in Spain", "Walks", "Andalucia"]
 
 cover:
     image: /posts/el-torcal/images/cover.jpg

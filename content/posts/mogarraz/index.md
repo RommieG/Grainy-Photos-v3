@@ -16,7 +16,7 @@ tags: ["Mamiya M645", "Nikon FE2", "B&W film", "Ilford FP4", "Ilford Delta"]
 # "Ilford FP4" "Ilford HP5" "Ilford Delta" "Fomapan" "Bergger Pancro" "Rollei RPX" "Kentmere"
 # "Kodak Porta" "Kodak Gold" "Kodak Ultra" "Kodak Ektar" "Harman Phoenix"
 
-categories: ["Places in Spain"]
+categories: ["Places in Spain", "Castilla y León"]
 # "Places in Spain" "Culture" "Walks" "Architecture" "Experimental" "Cortijo" "Via Verde" "White village"
 
 cover:
