@@ -12,7 +12,7 @@ draft: false
 
 tags: ["Nikon FE2", "B&W film", "Ilford Delta"]
 
-categories: ["Places in Spain", "Palencia"]
+categories: ["Places in Spain", "Palencia", "Castilla y León"]
 
 cover:
     image: /posts/estalaya/images/cover.jpg

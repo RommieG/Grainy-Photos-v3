@@ -12,7 +12,7 @@ draft: false
 
 tags: ["Mamiya M645", "Nikon FE2", "B&W film", "Ilford Delta"]
 
-categories: ["Walks", "Places in Spain", "Palencia"]
+categories: ["Walks", "Places in Spain", "Palencia", "Castilla y León"]
 
 cover:
     image: /posts/senda-del-gigante/images/cover.jpg
