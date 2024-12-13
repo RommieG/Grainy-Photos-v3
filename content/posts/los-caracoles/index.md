@@ -58,7 +58,7 @@ The photos were digitised using a Nikon Z6 mirrorless digital camera with a Toki
 
 Film roll No's 362 and 432.
 
-## Photo Album
+## Los Caracoles and Cruz de la Atalaya photographs
 
 **Click on any photo to see a larger version.**
 
