@@ -21,7 +21,7 @@ cover:
 
 ShowPostNavLinks: true
 ---
-> The Government of Andalusia declared Pinar de Cánavas a natural monument of biotic character in November 2001.
+> The Government of Andalucia declared Pinar de Cánavas a natural monument of biotic character in November 2001.
 
 Pinar de Cánavas is a pine forest of approximately 5 hectares in the Sierra Mágina, Spain, which has largely been unaffected by human intervention. It comprises some 120 specimens of mostly Aleppo pine, with an average age of more than 200 years and several majestic specimens of more than 250 years. Young pines typically have straight trunks and conical canopies; however, these aged pines have twisted trunks and umbrella-shaped canopies, typical of old pine trees.
 
