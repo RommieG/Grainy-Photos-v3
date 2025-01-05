@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ---
 > Estalaya is a small village with picturesque stone houses and a village green. But the main attraction is undoubtedly the parish church of Nuestra Señora de la Asunción, located on a small hillock on the southeastern side of the village.
 
-Located in the Palentina Mountains, just over a kilometre from the Requejada reservoir, surrounded by forests and green meadows, the area around Estalaya is panoramic and an excellent area for walking. Indeed, there are many popular and well-documented walks in the area, including Senda El Roblón, The [Fossil Forest Route](https://grainyphotos.com/posts/verdena/) and Senda del Oso. It was on the way back from the Fossil Forest walk I chanced upon the sleepy village of Estalaya. What a find!
+Located in the Palentina Mountains, just over a kilometre from the Requejada reservoir, surrounded by forests and green meadows, the area around Estalaya is panoramic and an excellent area for walking. Indeed, there are many popular and well-documented walks in the area, including Senda El Roblón, The [Fossil Forest Route](/posts/verdena/) and Senda del Oso. It was on the way back from the Fossil Forest walk I chanced upon the sleepy village of Estalaya. What a find!
 
 ## The church of Nuestra Señora de la Asunción
 

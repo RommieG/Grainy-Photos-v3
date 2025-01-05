@@ -49,7 +49,7 @@ The car was built and designed for rural France. The designer defined the essent
 
 ## Film photo details
 
-I took all the photos on this page using a Mamiya RB67 medium format camera, tripod mounted, with 90mm and 180mm lenses. I used Ilford FP4 film rated at 100 ISO.
+I took all the photos on this page using a [Mamiya RB67](/gear/cameras/mamiya-rb67/) medium format camera, tripod mounted, with 90mm and 180mm lenses. I used Ilford FP4 film rated at 100 ISO.
 
 By 8:30 pm, everything was set up, and I was ready to start shooting. The location was in the olive groves (well, this is Andalucia), and the evening sun was low in the sky, lighting up and accentuating the car’s curves but without casting any harsh shadows. 
 

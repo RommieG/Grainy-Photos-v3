@@ -24,7 +24,7 @@ ShowPostNavLinks: true
 > Santibáñez de Resoba in Palencia, Castilla y León nestles in the Estrecho valley at the foot of hills and mountains, approximately 13 km from Cervera de Pisuerga. It is famous for the church of San Cristóbal, located at the very southern edge of the village.
 
 ## Santibáñez de Resoba - a chance find
-I was returning from the [Gigante del Valle Estrecho walk](https://grainyphotos.com/posts/senda-del-gigante/) when I saw an interesting old church. So I pulled over to take a look. 
+I was returning from the [Gigante del Valle Estrecho walk](/posts/senda-del-gigante/) when I saw an interesting old church. So I pulled over to take a look. 
 
 The church comprises a single nave with a Romanesque belfry dating back to the late 13th century. Unfortunately, the church was closed, but I learned that the presbytery is covered with a ribbed vault, and the main altarpiece is baroque, with an image of a crucified Christ from the 17th century. Information from Wikipedia – [Santibáñez de Resoba](https://es.wikipedia.org/wiki/Santib%C3%A1%C3%B1ez_de_Resoba) (2024, December 11).
 

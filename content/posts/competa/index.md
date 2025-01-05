@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 
 ## Film photo details
 
-I took all the photos on this page using a Mamiya M645 camera with Kentmere film. Developer: Rodinal/Adonal, 1+50, for 15 minutes @20C.
+I took all the photos on this page using a [Mamiya M645](/gear/cameras/mamiya-m645/) camera with Kentmere film. Developer: Rodinal/Adonal, 1+50, for 15 minutes @20C.
 
 The photos were digitised using a Nikon Zf mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One and DXO Photolab software.
 

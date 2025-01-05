@@ -88,7 +88,7 @@ But, enough talk, let's look at the photos I took.
 
 ## Film photo details
 
-I took all the photos on this page using a Zeiss Ikon Ikoflex IIa 855/16 camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
+I took all the photos on this page using a [Zeiss Ikon Ikoflex IIa 855/16](/gear/cameras/zeiss-ikon-ikoflex/) camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
 
 The photos were digitised using a Nikon Zf mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 
