@@ -3,7 +3,7 @@ title: 'Asahi Pentax Spotmatic SP'
 date: 2024-03-21T17:43:12+01:00
 canonicalURL: ""
 author: Rom Gostomski
-summary: 'Google description is called summary.'
+summary: 'The Pentax Spotmatic is still a very usable film camera today. It was one of the first 35mm SLR cameras to feature TTL...'
 draft: false
 
 cover:
@@ -16,9 +16,9 @@ cover:
 ShowToc: true
 tocopen: true
 
-tags: []
-# "Mamiya M645" "Mamiya RB67" "Nikon FE2" "Pentax MX" "Pinhole" "Horseman VH-R" "Zeis Ikon Ikoflex" "Kodak Brownie"
-# "B&W film" "Colour film" "B&W digital" "Colour digital"
+tags: ["Pentax Spotmatic"]
+
+categories: ["Film Cameras"]
 
 ShowPostNavLinks: false
 ---
@@ -26,7 +26,7 @@ ShowPostNavLinks: false
 
 {{< assetimage "/images/spotmatic/asahi-spotmatic-1.jpg"
 "The Asahi Pentax Spotmatic SP film camera" 
-"A photo of the xxxx.">}}
+"A photo of the Asahi Pentax Spotmatic SP film camera.">}}
 
 ## History
 
@@ -75,7 +75,7 @@ The camera uses 135 film. Film loading is conventional. The back of the camera i
 
 {{< assetimage "/images/spotmatic/asahi-spotmatic-4.jpg"
 "The Spotmatic camera back open, ready to load film" 
-"A photo of the xxxx.">}}
+"A photo of the Pentax Spotmatic film camera with the  back open, ready to load film.">}}
 
 ### Taking the photo
 
@@ -94,4 +94,4 @@ I have noticed that on my camera, the light meter can be affected by stray sunli
 
 {{< assetimage "/images/spotmatic/asahi-spotmatic-3.jpg"
 "Top view of the Asahi Pentax Spotmatic SP" 
-"A photo of the xxxx.">}}
+"A photo of the Asahi Pentax Spotmatic SP viewed from above.">}}
