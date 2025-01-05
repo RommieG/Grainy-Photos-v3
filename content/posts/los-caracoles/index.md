@@ -52,7 +52,7 @@ Legend has it that the cross was erected on the very spot where the army of Alfo
 
 ## Film photo details
 
-I took all the photos on this page using a Pentax Spotmatic camera. For the Los Caracoles photographs, I used Kentmere 100 film rated at 64 ISO. For the Cruz de la Atalaya photographs I used Foma 100 film. Both were developed in Spur Acurol-N.
+I took all the photos on this page using a [Pentax Spotmatic](/gear/cameras/asahi-spotmatic/) camera. For the Los Caracoles photographs, I used Kentmere 100 film rated at 64 ISO. For the Cruz de la Atalaya photographs I used Foma 100 film. Both were developed in Spur Acurol-N.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

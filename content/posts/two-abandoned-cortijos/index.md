@@ -33,7 +33,7 @@ Cortijos were historically used as residences for farm owners, agricultural work
 
 ## Film photo details
 
-I took all the photos on this page using a Pentax Spotmatic SP camera with Ilford Delta 100 film. I developed the negatives with Ilfotec LC29 at 1+26 for 6 minutes and 45 seconds @20C.
+I took all the photos on this page using a [Pentax Spotmatic SP](/gear/cameras/asahi-spotmatic/) camera with Ilford Delta 100 film. I developed the negatives with Ilfotec LC29 at 1+26 for 6 minutes and 45 seconds @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

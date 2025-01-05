@@ -88,7 +88,7 @@ diameter. It is in a poor state of repair, as can be seen in the photographs.
 
 ## Film photo details
 
-I took all the photos using a Zeiss Ikon Ikoflex IIa 855/16 camera with Ilford HP5 film exposed at 400 ISO. Developer: Ilford Ilfotec LC29, 1+19, for 6,5 minutes @20C.
+I took all the photos using a [Zeiss Ikon Ikoflex IIa 855/16](/gear/cameras/zeiss-ikon-ikoflex/) camera with Ilford HP5 film exposed at 400 ISO. Developer: Ilford Ilfotec LC29, 1+19, for 6,5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

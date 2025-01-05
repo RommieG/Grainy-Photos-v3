@@ -28,7 +28,7 @@ I don’t shoot much colour film, but I have been trialling the new Harman Phoen
 
 Therefore, with camera in hand, I took my dog Flo for a walk on the Via Verde, a disused network of railway lines, which have been converted into footpaths/cycle tracks. 
 
-All the following photos were taken that day using a Mamiya RB67 camera with Porto 160 film. I developed the film myself using Tetenal ColourTec C41 chemistry at 30°C.
+All the following photos were taken that day using a [Mamiya RB67](/gear/cameras/mamiya-rb67/) camera with Porta 160 film. I developed the film myself using Tetenal ColourTec C41 chemistry at 30°C.
 
 ***Click on any photo to see a larger version.***
 

@@ -109,7 +109,7 @@ Here are a couple of bonus photos of green almonds:
 
 ## Film photo details
 
-I took all the photos on this page using a Pentax MX camera with Kodak Gold film. I home-developed the film using a Tetnal Colourtec C41 kit at 30C.
+I took all the photos on this page using a [Pentax MX](/gear/cameras/pentax-mx/) camera with Kodak Gold film. I home-developed the film using a Tetnal Colourtec C41 kit at 30C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using SmartConvert and Capture One software.
 

@@ -35,7 +35,7 @@ Last year, wildflowers were particularly poor due to drought. This year, we had 
 
 ## Film photo details
 
-I took all the photos on this page (excluding the out-takes, see below) using a tripod-mounted Mamiya M645 1000S camera paired with a Mamiya Macro A 1:4 120mm lens. I used Ilford FP4 film, which I developed in Rodinal, 1+50, for 14 minutes @20C.
+I took all the photos on this page (excluding the out-takes, see below) using a tripod-mounted [Mamiya M645 1000S](/gear/cameras/mamiya-m645/) camera paired with a Mamiya Macro A 1:4 120mm lens. I used Ilford FP4 film, which I developed in Rodinal, 1+50, for 14 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

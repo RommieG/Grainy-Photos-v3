@@ -29,7 +29,7 @@ I have been out with my film camera again! And what a place this was!
 
 ## Film photo details
 
-I took all the photos below using a Mamiya 645 1000S camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
+I took all the photos below using a [Mamiya 645 1000S](/gear/cameras/mamiya-m645/) camera with Kentmere 100 film. Developer: Spur Acurol-N, 1+70, for 9 minutes @20C.
 
 The photos were digitised using a Nikon Zf mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens. The first two images were converted to positive and edited using Capture One software, the remainder using DXO PhotoLab 8. 
 

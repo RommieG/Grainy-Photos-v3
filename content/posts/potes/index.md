@@ -157,7 +157,7 @@ El Puente de la Cárcel (the Prison Bridge) is located in the old town of Potes,
 
 ## Film photo details
 
-I took all but one of the photos on this page using a Mamiya M645 camera with Ilford FP4 film. Developer: Ilfotec LC29, 1+19, for 7.5 minutes @20C.
+I took all but one of the photos on this page using a [Mamiya M645](/gear/cameras/mamiya-m645/) camera with Ilford FP4 film. Developer: Ilfotec LC29, 1+19, for 7.5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

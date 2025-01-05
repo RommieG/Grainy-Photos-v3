@@ -34,7 +34,7 @@ There is a signposted hiking trail through the forest, which can be incorporated
 
 ## Film photo details
 
-I took all the photos using a [Pentax Spotmatic](https://grainyphotos.com/gear/cameras/asahi-spotmatic/) camera with Kentmere 100 film, rated at 64 ISO. I developed the film in Spur Acurol-N, diluted 1+70, for 9 min @20C.
+I took all the photos using a [Pentax Spotmatic](/gear/cameras/asahi-spotmatic/) camera with Kentmere 100 film, rated at 64 ISO. I developed the film in Spur Acurol-N, diluted 1+70, for 9 min @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

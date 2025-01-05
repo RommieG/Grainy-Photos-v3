@@ -137,7 +137,7 @@ That concludes our photo walk around the village. We wandered around the rabbit 
 
 ## Film photo details
 
-I used two vintage film cameras for my photo walk around Genalgaucil, a Pentax Spotmatic SP and a Zeiss Ikon Ikoflex IIa 855/19, both with Kentmere 100 film exposed @ 64 ISO. Developer: Spur Acurol-N 1+70 9 min @20C
+I used two vintage film cameras for my photo walk around Genalgaucil, a [Pentax Spotmatic SP](https://grainyphotos.com/gear/cameras/asahi-spotmatic/) and a Zeiss Ikon Ikoflex IIa 855/19, both with Kentmere 100 film exposed @ 64 ISO. Developer: Spur Acurol-N 1+70 9 min @20C
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

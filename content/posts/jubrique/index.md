@@ -30,7 +30,7 @@ During my most recent visit in the late summer of 2023, I captured its essence t
 
 ## Film photo details
 
-I took all the photos using a Pentax Spotmatic camera with Kentmere 100 film. Developer: Ilfotec LC-29, 1+19, for 6 minutes @20C.
+I took all the photos using a [Pentax Spotmatic](/gear/cameras/asahi-spotmatic/) camera with Kentmere 100 film. Developer: Ilfotec LC-29, 1+19, for 6 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

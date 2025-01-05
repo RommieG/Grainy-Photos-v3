@@ -29,7 +29,7 @@ El Torcal is accessible by vehicle, the best access point being the Torcal Alto 
 
 ## Film photo details
 
-I took all the photos on this page using a Mamiya M645 1000S camera with Ilford HP5 rated at 200 ISO. Developer: Spur Acurol-N 1+50.
+I took all the photos on this page using a [Mamiya M645 1000S](/gear/cameras/mamiya-m645/) camera with Ilford HP5 rated at 200 ISO. Developer: Spur Acurol-N 1+50.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 
