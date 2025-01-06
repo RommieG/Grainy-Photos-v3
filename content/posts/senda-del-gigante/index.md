@@ -31,7 +31,7 @@ The return to the car park is along the same path, although a few minor detours 
 
 ## Film photo details
 
-The first photograph was taken with a [Mamiya M645](/gear/cameras/mamiya-m645/), the remainder with a Nikon FE2 with Delta 100 film. Developer: Ilfotec LC-29, 1+29, for 7.5 minutes @20C.
+The first photograph was taken with a [Mamiya M645](/gear/cameras/mamiya-m645/), the remainder with a [Nikon FE2](/gear/cameras/nikon-fe2/) with Delta 100 film. Developer: Ilfotec LC-29, 1+29, for 7.5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

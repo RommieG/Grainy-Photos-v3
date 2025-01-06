@@ -37,7 +37,7 @@ The church currently consists of two naves and a head square.
 
 ## Film photo details
 
-I spent a very pleasant couple of hours wandering around the village, exploring and taking photos with my Nikon FE2 camera. I shot the photos in the early afternoon in bright sunlight.
+I spent a very pleasant couple of hours wandering around the village, exploring and taking photos with my [Nikon FE2](/gear/cameras/nikon-fe2/) camera. I shot the photos in the early afternoon in bright sunlight.
 
 I used Ilford Delta 100 film, developed in Ilfotec LC-29 1+29 for 7.5 minutes @20C.
 

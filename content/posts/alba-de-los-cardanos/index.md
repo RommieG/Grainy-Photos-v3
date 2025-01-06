@@ -31,7 +31,7 @@ ShowPostNavLinks: true
 
 This was part of a great day out exploring the Palencia region of Spaim. I stumbled across Alba de los Cardaños by chance, just driving through and made a point of stopping to explore. That proved to be a good decision!
 
-I took all the photos using a Nikon FE2 camera with Delta 100 film. Developer: LC-29 1+29, developed for 7.5 minutes @20C.
+I took all the photos using a [Nikon FE2](/gear/cameras/nikon-fe2/) camera with Delta 100 film. Developer: LC-29 1+29, developed for 7.5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

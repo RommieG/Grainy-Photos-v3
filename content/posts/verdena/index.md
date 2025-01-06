@@ -25,7 +25,7 @@ ShowPostNavLinks: true
 
 ## Film photo details
 
-On my day in Verdeña and the El Bosque Fósil (the fossil forest) walk I took all the photos using a Nikon FE2 camera with Ilford Delta 100 film. Developer: Ilfotec LC-29 1+29, developed for 7.5 minutes @20C.
+On my day in Verdeña and the El Bosque Fósil (the fossil forest) walk I took all the photos using a [Nikon FE2](/gear/cameras/nikon-fe2/) camera with Ilford Delta 100 film. Developer: Ilfotec LC-29 1+29, developed for 7.5 minutes @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 

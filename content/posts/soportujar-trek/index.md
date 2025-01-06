@@ -33,7 +33,7 @@ Difficulty: Moderate.
 
 ## Film photo details
 
-I took all but one of the photos on this page using a Nikon FE2 camera with Nikkor 35-105 zoom. 
+I took all but one of the photos on this page using a [Nikon FE2](/gear/cameras/nikon-fe2/) camera with Nikkor 35-105 zoom. 
 
 Film: Ilford Delta 100  
 Developer: Spur Acurol-N 1+70 @20C for 8.5 minutes @20C.

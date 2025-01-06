@@ -10,7 +10,7 @@ tocopen: true
 summary: 'Amazing film photos from Pinar de Cánavas; a pine forest of mostly Aleppo pines, with an average age of more than 200 years and several majestic specimens of more than 250 years.'
 draft: false
 
-tags: ["Nikon FE2", "B&W film", "Kentmere" ]
+tags: ["Pentax Spotmatic", "B&W film", "Kentmere" ]
 
 categories: ["Places in Spain", "Walks", "Andalucia"]
 

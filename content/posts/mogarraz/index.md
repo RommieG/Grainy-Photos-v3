@@ -77,7 +77,7 @@ The project has revitalised the village by turning it into an outdoor art galler
 I used two different film cameras to take the photos on this page:
 
 - A [Mamiya M645 1000S](/gear/cameras/mamiya-m645/) with Ilford FP4 film. Developer: Ilfotec LC29, 1+19, for 7 minutes 30 seconds @20C.
-- A Nikon FE2 with Ilford Delta 100 film. Developer: Ilfotec LC29, 1+29, for 7 minutes 30 seconds @20C.
+- A [Nikon FE2](/gear/cameras/nikon-fe2/) with Ilford Delta 100 film. Developer: Ilfotec LC29, 1+29, for 7 minutes 30 seconds @20C.
 
 The photos were digitised using a Nikon Z6 mirrorless digital camera with a Tokina AT-X Pro Macro 100mm f2.8 D lens and processed using Capture One software.
 
