@@ -16,7 +16,7 @@ categories: ["Walks", "Andalucia"]
 
 cover:
     image: /posts/cross-pantano-viboras-2025/images/cover.jpg
-    alt: 'A black-and-white film photo of '
+    alt: 'A black-and-white film photo of hikers walking on a path and road shortly after the start of the Cross Pantano del Víboras walking category'
     caption: 'Hikers walking the course, shortly after the start'
 
 ShowPostNavLinks: true
@@ -43,39 +43,39 @@ I love this event. The route is incredibly picturesque, traversing unique and sp
 
 {{< postimg "images/cross-pantano-viboras-01.jpg" 
 "The hikers gathering for the start of the race" 
-"AltText" >}}
+"A crowded street scene features a mix of people gathered hikers gathering for the start of the walk, many wearing coats and backpacks. A large inflatable archway with text marks the finish line of the annual race. The street is lined with old buildings. Black and white image." >}}
 
 {{< postimg "images/cross-pantano-viboras-02.jpg" 
 "A short distance after the start of the race with the reservoir and mountains in the distance" 
-"AltText" >}}
+"A group of people wearing backpacks and numbered bibs walk along a dirt path near Las Casillas de Martos. The landscape features rolling hills, a distant village, and the shimmering Viboras Reservoir under a clear sky." >}}
 
 {{< postimg "images/cross-pantano-viboras-03.jpg" 
 "Crossing the dam" 
-"AltText" >}}
+"A group of people and a few dogs walking across the dam during the Cross Pantano del Víboras. The black-and-white scene captures the hills and water of the Viboras Reservoir in the background, their outlines softened by a slightly hazy sky." >}}
 
 {{< postimg "images/cross-pantano-viboras-04.jpg" 
 "The course is very scenic. Here the track winds its way through the olive groves." 
-"AltText" >}}
+"A black and white image of a serene landscape near Las Casillas de Martos, with rolling hills and distant mountains. Olive trees dot the landscape as the sun casts soft light over the scene." >}}
 
 {{< postimg "images/cross-pantano-viboras-05.jpg" 
 "Crossing the river Víboras" 
-"AltText" >}}
+"Black and white photo of a rural scene on the Pantano del Víboras course, with three people walking across a small bridge over a calm stream. The bridge has railings, and rocky hills with sparse trees reflect in the water below." >}}
 
 {{< postimg "images/cross-pantano-viboras-06.jpg" 
 "One of the leading runners (the hikers walk anti-clockwise and the runners go clockwise)" 
-"AltText" >}}
+"One of the leading runners passes the walkers going in the opposite direction on a dirt track by the reservoir. The landscape features hills and sparse vegetation under a clear sky. The image is in black and white." >}}
 
 {{< postimg "images/cross-pantano-viboras-07.jpg" 
 "More runners pass the hikers" 
-"AltText" >}}
+"More runners pass the walkers going in the opposite direction on a dirt track by the reservoir." >}}
 
 {{< postimg "images/cross-pantano-viboras-08.jpg" 
 "After the race, crowds of people in the village square" 
-"AltText" >}}
+"A large crowd gathers in the Las Casillas de Martos village square after the Cross Pantano del Víboras event. People, some in hats and running gear, mill about. In the background, there is a stage for the presentation ceremony." >}}
 
 {{< postimg "images/cross-pantano-viboras-09.jpg" 
 "The street party after the race. BBQ pork skewers, chorizo sausages and paella are firm favourites. All washed down with copious amounts of beer. It?s fiesta time 🎉 🍻🥘" 
-"AltText" >}}
+"A bustling outdoor street party scene in black and white, with many people seated under umbrellas, chatting and enjoying food and drinks. The atmosphere is lively and social, with a backdrop of white buildings and sunlight filtering through the umbrellas." >}}
 
 ## Film photo details
 
